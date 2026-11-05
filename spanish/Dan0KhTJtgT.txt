@@ -1,0 +1,5 @@
+Кейс: плюс 120 пунктов после удаления негативных записей
+https://www.instagram.com/reel/Dan0KhTJtgT/
+Español · traducción del texto original
+
+Ahora vamos a revisar uno de los casos más interesantes de un cliente. Nos contactó en mayo: su puntaje era de 547 en Experian, 589 en TransUnion y 631 en Equifax. Variaba un poco porque las cuentas no aparecían en todos los burós. Tenía una cuenta con charge-off en TransUnion, Experian y Equifax. Vemos ese charge-off con un saldo de 66 dólares, pero aun así sigue siendo un charge-off. Y en TransUnion y Experian también tenía una cuenta en cobranza de Verizon por 963 dólares. Eliminamos tanto la cuenta en cobranza como la cuenta con charge-off. Ahora vamos a ver el reporte de crédito del 8 de julio. Su puntaje en TransUnion ya es de 709. Subió más de 120 puntos por eliminar dos cuentas negativas.

@@ -1,0 +1,5 @@
+Кейс: удаление charge-off аккаунта
+https://www.instagram.com/reel/DRNlxsIEuUK/
+Español · traducción del texto original
+
+Aquí el cliente tenía una cuenta charge-off. Su puntaje era de 663 en TransUnion y Experian, y de 666 en Equifax. Vemos que aquí hay una cuenta negativa, un charge-off. Ahora bajamos y la buscamos. Aquí está nuestro charge-off por 24 957. Es una cuenta charge-off. Revisemos la actualización de su reporte de crédito. Al día de hoy se eliminó la cuenta. Aquí ya no aparece la cuenta negativa. Y el puntaje es de 703; en Equifax, 706. Se eliminó el charge-off.

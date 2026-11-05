@@ -1,0 +1,11 @@
+{
+  "cards": 86,
+  "statuses": {
+    "transcribed": 77,
+    "background_audio": 7,
+    "no_audio": 1,
+    "external_scene": 1
+  },
+  "words": 8400,
+  "issues": []
+}

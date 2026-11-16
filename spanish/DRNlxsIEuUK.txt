@@ -2,4 +2,12 @@
 https://www.instagram.com/reel/DRNlxsIEuUK/
 Español · traducción del texto original
 
-Aquí el cliente tenía una cuenta charge-off. Su puntaje era de 663 en TransUnion y Experian, y de 666 en Equifax. Vemos que aquí hay una cuenta negativa, un charge-off. Ahora bajamos y la buscamos. Aquí está nuestro charge-off por 24 957. Es una cuenta charge-off. Revisemos la actualización de su reporte de crédito. Al día de hoy se eliminó la cuenta. Aquí ya no aparece la cuenta negativa. Y el puntaje es de 703; en Equifax, 706. Se eliminó el charge-off.
+Aquí el cliente tenía una cuenta en charge-off. Su score era de 663 en TransUnion, y de 666 en Experian y Equifax.
+
+Vemos que hay una cuenta negativa: un charge-off. Vamos a bajar para encontrarla.
+
+Aquí está nuestro charge-off por 24 957.
+
+Ahora revisemos su reporte de crédito actualizado. Al día de hoy, la cuenta se eliminó y ya no aparece ninguna cuenta negativa.
+
+El score es de 703, y de 706 en Equifax. El charge-off se eliminó.

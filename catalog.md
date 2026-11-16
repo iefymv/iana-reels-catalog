@@ -85,7 +85,7 @@ Antes podías llamar a Experian, decir que tus inquiries [ÍN-kua-ris] no estaba
 
 Hace ya como un mes publicaron un comunicado oficial, junto con otros cambios: los inquiries ya no se eliminan por llamada.
 
-¿Qué significa esto para nosotros? Para Best Credit for You [best KRÉ-dit for iu] no cambia nada, porque tenemos otros métodos para eliminarlos. Todo sigue igual.
+¿Qué significa esto para nosotros? Para Best Credit Group [best KRÉ-dit grup] no cambia nada, porque tenemos otros métodos para eliminarlos. Todo sigue igual.
 
 ¿Qué significa para otras compañías? Si una compañía tenía un solo método, la llamada, lo más probable es que ahora aparezcan muchísimas estafas.
 
@@ -273,7 +273,7 @@ Acababa de grabar un video diciendo que tenía un historial de crédito perfecto
 
 Alguien dirá: «Bueno, sacaste un carro, después vuelve a subir». Ya pasaron casi cinco meses y no solo no sube, sino que sigue bajando.
 
-Vine a Best Credit For You [best KRÉ-dit for iu], que fue donde me eliminaron las consultas de crédito. Yana… ¿Cuál es mi problema? Me bajó el score.
+Vine a Best Credit Group [best KRÉ-dit grup], que fue donde me eliminaron las consultas de crédito. Yana… ¿Cuál es mi problema? Me bajó el score.
 
 Mira, que te baje el score es normal; en general, no puede subir todo el tiempo. Pero hay que averiguar por qué no se recupera.
 
@@ -1143,7 +1143,7 @@ Quedó solo una cuenta de Capital One [KÁ-pi-tol uan], que simplemente está ce
 
 ### Перевод на испанский
 
-Háblame de la empresa Best Credit For You [best KRÉ-dit for iu]. ¿Recomiendas esta empresa?
+Háblame de la empresa Best Credit Group [best KRÉ-dit grup]. ¿Recomiendas esta empresa?
 
 Sí, la recomiendo. Los recomendaría porque trabajan con transparencia, cumplen todas las leyes y además colaboran con un socio confiable, SmartCredit [smart-KRÉ-dit], que no trabaja con empresas fraudulentas.
 
@@ -1687,7 +1687,7 @@ Si tienes marcas negativas como estas:
 – late payments [leit PÉI-ments]
 podemos corregir todo esto en el menor tiempo posible.
 
-Me llamo Yana y soy especialista en crédito de Best Credit For You [best KRÉ-dit for iu].
+Me llamo Yana y soy especialista en crédito de Best Credit Group [best KRÉ-dit grup].
 
 Deja tu solicitud ahora mismo y con gusto te ayudo.
 
@@ -2033,7 +2033,7 @@ Si tienes más de cinco, te van a negar una tarjeta de crédito o cualquier otro
 
 Por eso es importante vigilar cuántos hard inquiries tienes en tu reporte y limpiarlos a tiempo.
 
-Me llamo Yana y soy especialista financiera de Best Credit For You [best KRÉ-dit for iu].
+Me llamo Yana y soy especialista financiera de Best Credit Group [best KRÉ-dit grup].
 
 Escríbeme y te ayudo a eliminar tus hard inquiries.
 
@@ -2071,7 +2071,7 @@ Escríbeme y te ayudo a eliminar tus hard inquiries.
 
 Si tu score [skor] bajó por tener muchos hard inquiries [jard ÍN-kua-ris] y eso no te deja conseguir buen financiamiento, eliminamos tus hard inquiries en 24 horas o te devolvemos tu dinero.
 
-Hola, me llamo Yana y soy especialista financiera de BestCredit4You [best KRÉ-dit for iu].
+Hola, me llamo Yana y soy especialista financiera de Best Credit Group [best KRÉ-dit grup].
 
 Llena tu solicitud ahora mismo y yo me comunico contigo.
 
@@ -3041,7 +3041,7 @@ Escríbeme por mensaje directo y te cuento qué se puede hacer en tu caso.
 
 ¿Quieres un auto así en leasing [LÍ-sing] con el pago mensual más bajo? Subimos tu score [skor] a 750 o más.
 
-Me llamo Yana y soy especialista en crédito de BestCredit4You [best KRÉ-dit for iu].
+Me llamo Yana y soy especialista en crédito de Best Credit Group [best KRÉ-dit grup].
 
 Llena tu solicitud ahora mismo y te aseguro que te voy a ayudar.
 
@@ -3338,7 +3338,7 @@ Y segundo, por supuesto, la antigüedad de tu empresa. Para los bancos grandes, 
 
 Todos queremos manejar un buen auto, rentar una buena casa, sacar una hipoteca para comprar casa y conseguir financiamiento para nuestras ideas de negocio.
 
-Me llamo Yana y soy especialista financiera de Best Credit For You [best KRÉ-dit for iu].
+Me llamo Yana y soy especialista financiera de Best Credit Group [best KRÉ-dit grup].
 
 Los rechazos constantes, las tasas de interés altas y los enganches elevados no te dejan cumplir ese sueño americano. Un mal historial de crédito te puede salir muy caro, literalmente.
 
@@ -3401,7 +3401,7 @@ También te da acceso a financiamiento. Con un buen puntaje es más fácil sacar
 
 Y segundo, te abre oportunidades para crecer. Un portafolio de crédito grande te ayuda a financiar tus ideas de negocio. Y, sobre todo, te da acceso a cantidades más grandes.
 
-Me llamo Yana y soy especialista financiera de Best Credit For You [best KRÉ-dit for iu].
+Me llamo Yana y soy especialista financiera de Best Credit Group [best KRÉ-dit grup].
 
 Si te quedó alguna duda, escríbeme y te ayudo.
 
@@ -3711,7 +3711,7 @@ Segundo punto. Mira, nosotros no nos dedicamos a eso. Yo no ayudo a ese tipo de 
 Me llamo Yana, tengo 31 años.
 
 ¿A qué te dedicas aquí en Estados Unidos?
-Soy especialista en reparación de crédito y dirijo la compañía Best Credit for You [best KRÉ-dit for iu].
+Soy especialista en reparación de crédito y dirijo la compañía Best Credit Group [best KRÉ-dit grup].
 
 ¿Cuánto gana aquí un especialista en reparación de crédito?
 La facturación anual de nuestra compañía es de siete cifras.

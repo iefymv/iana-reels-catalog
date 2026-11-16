@@ -5414,7 +5414,7 @@
     ],
     "priority_level": 1,
     "topic": "Кредитрепайр",
-    "translation_es": "Una clienta nos contactó con late payments de 30 y 60 días en su historial de crédito.\n\nSu score era de:\n– TransUnion: 622\n– Experian: 618\n– Equifax: 623\n\nTenía una cuenta cerrada con late payments, de 30 y 60 días. Nos contactó el 5.08.2026.\n\nAhora veamos cuánto subió al 12 de junio. Su score subió a 690, o sea, unos 70 puntos más, y la cuenta ya no aparece.\n\nAhora les explico por qué no subió más. Porque tiene una utilización de crédito muy alta. Tiene tarjetas de crédito de Bank of America y de Discover con saldo, así que está usando un porcentaje muy alto de su límite.\n\nSi no tuviera esa utilización tan alta, su score habría llegado a unos 730 o 740. Pero, lamentablemente, así quedó.\n\nSi tienes late payments en tu historial de crédito, contáctanos y te vamos a ayudar, sin duda."
+    "translation_es": "Una clienta nos contactó con late payments de 30 y 60 días en su historial de crédito.\n\nSu score era de:\n– TransUnion: 622\n– Experian: 618\n– Equifax: 623\n\nTenía una cuenta cerrada con late payments, de 30 y 60 días. Nos contactó el 8 de mayo de 2026.\n\nAhora veamos cuánto subió al 12 de junio. Su score subió a 690, o sea, unos 70 puntos más, y la cuenta ya no aparece.\n\nAhora les explico por qué no subió más. Porque tiene una utilización de crédito muy alta. Tiene tarjetas de crédito de Bank of America y de Discover con saldo, así que está usando un porcentaje muy alto de su límite.\n\nSi no tuviera esa utilización tan alta, su score habría llegado a unos 730 o 740. Pero, lamentablemente, así quedó.\n\nSi tienes late payments en tu historial de crédito, contáctanos y te vamos a ayudar, sin duda."
   },
   {
     "number": 12,
@@ -9112,7 +9112,7 @@
     "duration": "67.870998",
     "category": "Кейс",
     "scenario": "Исходные показатели → charge-off и collection → отчёт после работы → новые показатели.",
-    "text": "Итак, у меня у клиента есть charge-off Account на кредитном отчете. Он на всех трех бюро TransUnion Experian и Equifax. Здесь мы уже видим, что делегитор марки charge-off Score 512, 510, 484. Почему здесь Score меньше? Потому что у него есть также Collection от IT&T. Также есть еще одна secured credit card, но мы ее не трогаем, с ней все в порядке. В итоге мы имеем один Collection на Equifax и один charge-off на всех трех бюро. Поэтому у нас такой низкий Score. обновляем кредитный репорт у нас было удаление коллекция чарчоффа на транс юнии и экспири они скоро абсолютно нет почему потому что аккаунт черчофф был удален то есть у него ничего не осталось на транс юнии экспири они на и к факсе скоро такой высокий потому что здесь удалился collection удалился charge-off и остался только один аккаунт это секьюр кредит карты на 200 поэтому скор сохранился он такой высокий сейчас на данный момент клиент может заново начинать строить свою кредитную историю полноценно раскачивать его то есть charge-off уже нет коллекция на тоже нету",
+    "text": "Итак, у меня у клиента есть charge-off Account на кредитном отчете. Он на всех трех бюро TransUnion Experian и Equifax. Здесь мы уже видим, что делегитор марки charge-off Score 512, 510, 484. Почему здесь Score меньше? Потому что у него есть также Collection от AT&T. Также есть еще одна secured credit card, но мы ее не трогаем, с ней все в порядке. В итоге мы имеем один Collection на Equifax и один charge-off на всех трех бюро. Поэтому у нас такой низкий Score. обновляем кредитный репорт у нас было удаление коллекция чарчоффа на транс юнии и экспири они скоро абсолютно нет почему потому что аккаунт черчофф был удален то есть у него ничего не осталось на транс юнии экспири они на и к факсе скоро такой высокий потому что здесь удалился collection удалился charge-off и остался только один аккаунт это секьюр кредит карты на 200 поэтому скор сохранился он такой высокий сейчас на данный момент клиент может заново начинать строить свою кредитную историю полноценно раскачивать его то есть charge-off уже нет коллекция на тоже нету",
     "description": "Полное исправление кредитной истории . \nБольше рассказываю в сторис .",
     "hashtags": "#bestcredit4you",
     "visual": "Экран кредитного отчёта занимает фон; маленькое окно с лицом ведущей вверху справа; постоянная плашка о charge-off и collection.",
@@ -9232,7 +9232,7 @@
         "seek": 0,
         "start": 11.74,
         "end": 17.36,
-        "text": "Почему здесь Score меньше? Потому что у него есть также Collection от IT&T.",
+        "text": "Почему здесь Score меньше? Потому что у него есть также Collection от AT&T.",
         "tokens": [
           50952,
           32823,
@@ -9623,7 +9623,7 @@
     ],
     "priority_level": 1,
     "topic": "Кредитрепайр",
-    "translation_es": "Tengo un cliente con una cuenta en charge-off en su reporte de crédito. Aparece en los tres burós: TransUnion, Experian y Equifax.\n\nAquí ya vemos la marca negativa de charge-off. El score es 512, 510 y 484.\n\n¿Por qué aquí el score es más bajo? Porque además tiene una collection de IT&T.\n\nTambién tiene una tarjeta de crédito asegurada, pero esa no la tocamos: está bien.\n\nEn total, tenemos una collection en Equifax y un charge-off en los tres burós. Por eso el score está tan bajo.\n\nActualizamos el reporte de crédito. Se eliminaron la collection y el charge-off.\n\nEn TransUnion y Experian ya no hay score. ¿Por qué? Porque se eliminó la cuenta en charge-off y no le quedó nada en esos dos burós.\n\nEn Equifax el score está tan alto porque se eliminaron la collection y el charge-off, y solo quedó una cuenta: la tarjeta de crédito asegurada de 200. Por eso el score se mantuvo alto.\n\nAhora el cliente puede empezar de cero a construir su historial de crédito y hacerlo crecer. Ya no tiene ni el charge-off ni la collection."
+    "translation_es": "Tengo un cliente con una cuenta en charge-off en su reporte de crédito. Aparece en los tres burós: TransUnion, Experian y Equifax.\n\nAquí ya vemos la marca negativa de charge-off. El score es 512, 510 y 484.\n\n¿Por qué aquí el score es más bajo? Porque además tiene una collection de AT&T.\n\nTambién tiene una tarjeta de crédito asegurada, pero esa no la tocamos: está bien.\n\nEn total, tenemos una collection en Equifax y un charge-off en los tres burós. Por eso el score está tan bajo.\n\nActualizamos el reporte de crédito. Se eliminaron la collection y el charge-off.\n\nEn TransUnion y Experian ya no hay score. ¿Por qué? Porque se eliminó la cuenta en charge-off y no le quedó nada en esos dos burós.\n\nEn Equifax el score está tan alto porque se eliminaron la collection y el charge-off, y solo quedó una cuenta: la tarjeta de crédito asegurada de 200. Por eso el score se mantuvo alto.\n\nAhora el cliente puede empezar de cero a construir su historial de crédito y hacerlo crecer. Ya no tiene ni el charge-off ni la collection."
   },
   {
     "number": 31,
@@ -10635,7 +10635,7 @@
     ],
     "priority_level": 1,
     "topic": "Кредитрепайр",
-    "translation_es": "Aquí el cliente tenía una cuenta en charge-off. Su score era de 663 en TransUnion, y de 666 en Experian y Equifax.\n\nVemos que hay una cuenta negativa: un charge-off. Vamos a bajar para encontrarla.\n\nAquí está nuestro charge-off por 24 957.\n\nAhora revisemos su reporte de crédito actualizado. Al día de hoy, la cuenta se eliminó y ya no aparece ninguna cuenta negativa.\n\nEl score es de 703, y de 706 en Equifax. El charge-off se eliminó."
+    "translation_es": "Aquí el cliente tenía una cuenta en charge-off. Su score era de 663 en TransUnion y Experian, y de 666 en Equifax.\n\nVemos que hay una cuenta negativa: un charge-off. Vamos a bajar para encontrarla.\n\nAquí está nuestro charge-off por 24 957.\n\nAhora revisemos su reporte de crédito actualizado. Al día de hoy, la cuenta se eliminó y ya no aparece ninguna cuenta negativa.\n\nEl score es de 703, y de 706 en Equifax. El charge-off se eliminó."
   },
   {
     "number": 35,
@@ -11715,7 +11715,7 @@
     ],
     "priority_level": 1,
     "topic": "Кредитрепайр",
-    "translation_es": "Háblame de la empresa Best Credit For You. ¿Recomiendas esta empresa?\n\nSí, la recomiendo. Los recomendaría porque trabajan con transparencia, cumplen todas las leyes y además colaboran con un socio confiable, SmartQR, que no trabaja con empresas fraudulentas.\n\nAsí que sí: si necesitas mejorar tu historial de crédito, son una opción bastante confiable."
+    "translation_es": "Háblame de la empresa Best Credit For You. ¿Recomiendas esta empresa?\n\nSí, la recomiendo. Los recomendaría porque trabajan con transparencia, cumplen todas las leyes y además colaboran con un socio confiable, SmartCredit, que no trabaja con empresas fraudulentas.\n\nAsí que sí: si necesitas mejorar tu historial de crédito, son una opción bastante confiable."
   },
   {
     "number": 42,

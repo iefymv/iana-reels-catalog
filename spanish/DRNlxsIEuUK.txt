@@ -2,7 +2,7 @@
 https://www.instagram.com/reel/DRNlxsIEuUK/
 Español · traducción del texto original
 
-Aquí el cliente tenía una cuenta en charge-off [CHARCH-of]. Su score [skor] era de 663 en TransUnion [trans-IÚ-nion], y de 666 en Experian [eks-PÍ-rian] y Equifax [É-kui-faks].
+Aquí el cliente tenía una cuenta en charge-off [CHARCH-of]. Su score [skor] era de 663 en TransUnion [trans-IÚ-nion] y Experian [eks-PÍ-rian], y de 666 en Equifax [É-kui-faks].
 
 Vemos que hay una cuenta negativa: un charge-off. Vamos a bajar para encontrarla.
 

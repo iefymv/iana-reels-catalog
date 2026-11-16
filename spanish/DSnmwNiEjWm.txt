@@ -6,7 +6,7 @@ Tengo un cliente con una cuenta en charge-off [CHARCH-of] en su reporte de créd
 
 Aquí ya vemos la marca negativa de charge-off. El score [skor] es 512, 510 y 484.
 
-¿Por qué aquí el score es más bajo? Porque además tiene una collection [ko-LÉK-shon] de IT&T.
+¿Por qué aquí el score es más bajo? Porque además tiene una collection [ko-LÉK-shon] de AT&T [ei-ti-en-TI].
 
 También tiene una tarjeta de crédito asegurada, pero esa no la tocamos: está bien.
 

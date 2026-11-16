@@ -226,7 +226,7 @@ Su score [skor] era de:
 – Experian [eks-PÍ-rian]: 618
 – Equifax [É-kui-faks]: 623
 
-Tenía una cuenta cerrada con late payments, de 30 y 60 días. Nos contactó el 5.08.2026.
+Tenía una cuenta cerrada con late payments, de 30 y 60 días. Nos contactó el 8 de mayo de 2026.
 
 Ahora veamos cuánto subió al 12 de junio. Su score subió a 690, o sea, unos 70 puntos más, y la cuenta ya no aparece.
 
@@ -785,7 +785,7 @@ Si quieres arreglar tu historial de crédito, contáctanos y te vamos a ayudar.
 
 ### Полный текст
 
-Итак, у меня у клиента есть charge-off Account на кредитном отчете. Он на всех трех бюро TransUnion Experian и Equifax. Здесь мы уже видим, что делегитор марки charge-off Score 512, 510, 484. Почему здесь Score меньше? Потому что у него есть также Collection от IT&T. Также есть еще одна secured credit card, но мы ее не трогаем, с ней все в порядке. В итоге мы имеем один Collection на Equifax и один charge-off на всех трех бюро. Поэтому у нас такой низкий Score. обновляем кредитный репорт у нас было удаление коллекция чарчоффа на транс юнии и экспири они скоро абсолютно нет почему потому что аккаунт черчофф был удален то есть у него ничего не осталось на транс юнии экспири они на и к факсе скоро такой высокий потому что здесь удалился collection удалился charge-off и остался только один аккаунт это секьюр кредит карты на 200 поэтому скор сохранился он такой высокий сейчас на данный момент клиент может заново начинать строить свою кредитную историю полноценно раскачивать его то есть charge-off уже нет коллекция на тоже нету
+Итак, у меня у клиента есть charge-off Account на кредитном отчете. Он на всех трех бюро TransUnion Experian и Equifax. Здесь мы уже видим, что делегитор марки charge-off Score 512, 510, 484. Почему здесь Score меньше? Потому что у него есть также Collection от AT&T. Также есть еще одна secured credit card, но мы ее не трогаем, с ней все в порядке. В итоге мы имеем один Collection на Equifax и один charge-off на всех трех бюро. Поэтому у нас такой низкий Score. обновляем кредитный репорт у нас было удаление коллекция чарчоффа на транс юнии и экспири они скоро абсолютно нет почему потому что аккаунт черчофф был удален то есть у него ничего не осталось на транс юнии экспири они на и к факсе скоро такой высокий потому что здесь удалился collection удалился charge-off и остался только один аккаунт это секьюр кредит карты на 200 поэтому скор сохранился он такой высокий сейчас на данный момент клиент может заново начинать строить свою кредитную историю полноценно раскачивать его то есть charge-off уже нет коллекция на тоже нету
 
 ### Перевод на испанский
 
@@ -793,7 +793,7 @@ Tengo un cliente con una cuenta en charge-off [CHARCH-of] en su reporte de créd
 
 Aquí ya vemos la marca negativa de charge-off. El score [skor] es 512, 510 y 484.
 
-¿Por qué aquí el score es más bajo? Porque además tiene una collection [ko-LÉK-shon] de IT&T.
+¿Por qué aquí el score es más bajo? Porque además tiene una collection [ko-LÉK-shon] de AT&T [ei-ti-en-TI].
 
 También tiene una tarjeta de crédito asegurada, pero esa no la tocamos: está bien.
 
@@ -933,7 +933,7 @@ Charge-off account → исходные баллы и запись → удал�
 
 ### Перевод на испанский
 
-Aquí el cliente tenía una cuenta en charge-off [CHARCH-of]. Su score [skor] era de 663 en TransUnion [trans-IÚ-nion], y de 666 en Experian [eks-PÍ-rian] y Equifax [É-kui-faks].
+Aquí el cliente tenía una cuenta en charge-off [CHARCH-of]. Su score [skor] era de 663 en TransUnion [trans-IÚ-nion] y Experian [eks-PÍ-rian], y de 666 en Equifax [É-kui-faks].
 
 Vemos que hay una cuenta negativa: un charge-off. Vamos a bajar para encontrarla.
 
@@ -1145,7 +1145,7 @@ Quedó solo una cuenta de Capital One [KÁ-pi-tol uan], que simplemente está ce
 
 Háblame de la empresa Best Credit For You [best KRÉ-dit for iu]. ¿Recomiendas esta empresa?
 
-Sí, la recomiendo. Los recomendaría porque trabajan con transparencia, cumplen todas las leyes y además colaboran con un socio confiable, SmartQR, que no trabaja con empresas fraudulentas.
+Sí, la recomiendo. Los recomendaría porque trabajan con transparencia, cumplen todas las leyes y además colaboran con un socio confiable, SmartCredit [smart-KRÉ-dit], que no trabaja con empresas fraudulentas.
 
 Así que sí: si necesitas mejorar tu historial de crédito, son una opción bastante confiable.
 

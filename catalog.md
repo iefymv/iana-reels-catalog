@@ -45,7 +45,7 @@ A la derecha vemos que ya corregimos su historial de crédito. Bajamos. Aquí lo
 
 Además, se eliminaron 18 hard inquiries. Antes tenía 9, 13 y 4; quedaron 4, 3 y 2. O sea, quedaron solo los que están vinculados a cuentas activas, que no se deben tocar.
 
-Si tú quieres lo mismo, déjanos tu solicitud y te vamos a ayudar, sin duda.
+Si tú quieres lo mismo, déjanos tu solicitud en Best Credit Group [best KRÉ-dit grup] y te vamos a ayudar, sin duda.
 
 ### Описание
 
@@ -91,7 +91,7 @@ Hace ya como un mes publicaron un comunicado oficial, junto con otros cambios: l
 
 ¿Y qué significa para la gente? Que ahora va a tener que pagar para eliminarlos de Experian. Antes podías hacerlo tú mismo con Experian y solo acudir a una compañía de reparación de crédito para TransUnion [trans-IÚ-nion] y Equifax [É-kui-faks]. Ahora vas a tener que pagar también por Experian.
 
-Si necesitas eliminar hard inquiries, escríbeme y te asesoro.
+Si necesitas eliminar hard inquiries, escríbenos a Best Credit Group y te asesoramos.
 
 ### Описание
 
@@ -138,7 +138,7 @@ Terminamos el caso el 28 de julio y hoy su score es de:
 
 Bajamos y revisamos los late payments de las cuentas abiertas. La columna Delinquent está toda en cero. O sea, eliminamos los late payments de cuentas abiertas.
 
-Si tú quieres lo mismo, escríbeme para una consulta gratis.
+Si tú quieres lo mismo, escríbenos a Best Credit Group [best KRÉ-dit grup] para una consulta gratis.
 
 ### Описание
 
@@ -273,7 +273,7 @@ Acababa de grabar un video diciendo que tenía un historial de crédito perfecto
 
 Alguien dirá: «Bueno, sacaste un carro, después vuelve a subir». Ya pasaron casi cinco meses y no solo no sube, sino que sigue bajando.
 
-Vine a Best Credit Group [best KRÉ-dit grup], que fue donde me eliminaron las consultas de crédito. Yana… ¿Cuál es mi problema? Me bajó el score.
+Vine a Best Credit Group [best KRÉ-dit grup], que fue donde me eliminaron las consultas de crédito. [TU NOMBRE]… ¿Cuál es mi problema? Me bajó el score.
 
 Mira, que te baje el score es normal; en general, no puede subir todo el tiempo. Pero hay que averiguar por qué no se recupera.
 
@@ -406,7 +406,7 @@ Ahora mismo actualizo su reporte de crédito. Vamos a ver si se eliminaron esos 
 
 Subió 152 puntos y se eliminaron sus charge-offs.
 
-Si tú quieres lo mismo, escríbeme para una consulta gratis.
+Si tú quieres lo mismo, escríbenos a Best Credit Group [best KRÉ-dit grup] para una consulta gratis.
 
 ### Описание
 
@@ -445,7 +445,7 @@ Tenía un charge-off en los tres burós y su score en TransUnion [trans-IÚ-nion
 
 De inmediato: score de 727. Bajamos y la cuenta ya se eliminó. ¿Ven? Todas las cuentas están limpias. Listo, su historial de crédito quedó limpio.
 
-Si tú quieres lo mismo y tienes registros negativos en tu historial de crédito, escríbeme para una consulta gratis.
+Si tú quieres lo mismo y tienes registros negativos en tu historial de crédito, escríbenos a Best Credit Group [best KRÉ-dit grup] para una consulta gratis.
 
 ### Описание
 
@@ -488,7 +488,7 @@ Eso significa que en tu historial de crédito hay registros negativos, como:
 
 Podemos corregir todo eso y volver a subir tu score [skor].
 
-Déjanos tu solicitud ahora mismo para una consulta gratis.
+Déjanos tu solicitud en Best Credit Group [best KRÉ-dit grup] ahora mismo para una consulta gratis.
 
 ### Описание
 
@@ -529,7 +529,7 @@ Ahora vamos a actualizar su reporte de crédito para ver si se eliminaron los re
 
 Tiene 751 puntos y ya no hay registros negativos: las columnas Derogatory [di-RÁ-ga-to-ri] y Delinquent [di-LÍN-kuent] están en cero.
 
-Así que, si tú quieres lo mismo, si tienes problemas con tu historial de crédito, escríbeme para una consulta gratis.
+Así que, si tú quieres lo mismo, si tienes problemas con tu historial de crédito, escríbenos a Best Credit Group [best KRÉ-dit grup] para una consulta gratis.
 
 ### Описание
 
@@ -570,7 +570,7 @@ Le eliminamos ese late payment en tiempo récord y su score volvió a estar alto
 
 Como ves, subió más de 100 puntos y el late payment ya no aparece.
 
-Si quieres lo mismo, contáctame para una consulta gratis.
+Si quieres lo mismo, contáctanos en Best Credit Group [best KRÉ-dit grup] para una consulta gratis.
 
 ### Описание
 
@@ -622,7 +622,7 @@ Si bajamos, vemos que el late payment ya no aparece en el historial de crédito.
 
 Si tienes late payments [leit PÉI-ments] en tu reporte de crédito, podemos corregir todo eso y devolver tu score a niveles altos.
 
-Déjanos tu solicitud ahora mismo y te vamos a ayudar.
+Déjanos tu solicitud en Best Credit Group [best KRÉ-dit grup] ahora mismo y te vamos a ayudar.
 
 ### Описание
 
@@ -668,7 +668,7 @@ Ahora actualizamos su reporte de crédito. Mira cuánto subió el score: 758, ig
 
 Quedaron 5, 4 y 3 inquiries. Son las que están ligadas a cuentas activas.
 
-Si quieres lo mismo, déjanos tu solicitud ahora y te vamos a ayudar.
+Si quieres lo mismo, déjanos tu solicitud en Best Credit Group [best KRÉ-dit grup] ahora y te vamos a ayudar.
 
 ### Описание
 
@@ -900,7 +900,7 @@ Ahora actualizamos el reporte de crédito. Hoy vemos que sumó 50 puntos, y qued
 
 O sea, se eliminaron todos los hard inquiries.
 
-Si quieres lo mismo, escríbeme y te vamos a ayudar.
+Si quieres lo mismo, escríbenos a Best Credit Group [best KRÉ-dit grup] y te vamos a ayudar.
 
 ### Описание
 
@@ -1188,7 +1188,7 @@ Tres palabras en el reporte de crédito que asustan a todos.
 
 Te ayudamos a leer y entender tus reportes, y te explicamos qué hacer con ellos.
 
-Sígueme si quieres saber más.
+Sigue a Best Credit Group [best KRÉ-dit grup] si quieres saber más.
 
 ### Описание
 
@@ -1328,7 +1328,7 @@ Subimos tu score paso a paso. Y sí, puedes pagar después: pagas cuando ves los
 
 Si alguna vez cometiste errores, todo eso se puede corregir. Más de mil clientes satisfechos ya nos confiaron su historial de crédito.
 
-Sígueme si quieres saber qué tienes que corregir exactamente en tu caso.
+Sigue a Best Credit Group [best KRÉ-dit grup] si quieres saber qué tienes que corregir exactamente en tu caso.
 
 ### Описание
 
@@ -1429,7 +1429,7 @@ O sea, eliminamos charge-offs por un total de 40 mil dólares.
 
 Se puede arreglar; lo importante es no esperar hasta el momento crítico.
 
-Sígueme para saber más.
+Sigue a Best Credit Group [best KRÉ-dit grup] para saber más.
 
 ### Описание
 
@@ -1479,7 +1479,7 @@ Trabajamos directamente con los burós de crédito. Todo es legal y paso a paso.
 
 Puedes pagar después: pagas cuando ves los resultados. Más de mil clientes satisfechos ya recorrieron este camino con nosotros.
 
-Sígueme para saber qué se puede cambiar en tu caso.
+Sigue a Best Credit Group [best KRÉ-dit grup] para saber qué se puede cambiar en tu caso.
 
 ### Описание
 
@@ -1521,11 +1521,11 @@ Sígueme para saber qué se puede cambiar en tu caso.
 
 ### Перевод на испанский
 
-Yana, ¿qué les decimos a los clientes que quieren eliminar hard inquiries [jard ÍN-kua-ris] por 100 dólares?
+[TU NOMBRE], ¿qué les decimos a los clientes que quieren eliminar hard inquiries [jard ÍN-kua-ris] por 100 dólares?
 
-Ay, mi departamento técnico ni siquiera va a trabajar por esa miseria.
+Ay, nuestro departamento técnico ni siquiera va a trabajar por esa miseria.
 
-Deja tu solicitud y seguro te encontramos alguna opción.
+Deja tu solicitud en Best Credit Group [best KRÉ-dit grup] y seguro te encontramos alguna opción.
 
 ### Описание
 
@@ -1572,7 +1572,7 @@ También están los estafadores que te ofrecen grandes cantidades de dinero desp
 
 Por favor, no creamos en cuentos.
 
-Sigue mi cuenta para no cometer errores al construir tu historial de crédito.
+Sigue la cuenta de Best Credit Group [best KRÉ-dit grup] para no cometer errores al construir tu historial de crédito.
 
 ### Описание
 
@@ -1626,7 +1626,7 @@ Un cliente nuestro subió su score de 560 a 740 en 3 meses. Dio un down payment 
 
 Ya ayudamos a miles de clientes en Estados Unidos.
 
-Sígueme para entender qué se puede corregir en tu caso.
+Sigue a Best Credit Group [best KRÉ-dit grup] para entender qué se puede corregir en tu caso.
 
 ### Описание
 
@@ -1687,9 +1687,9 @@ Si tienes marcas negativas como estas:
 – late payments [leit PÉI-ments]
 podemos corregir todo esto en el menor tiempo posible.
 
-Me llamo Yana y soy especialista en crédito de Best Credit Group [best KRÉ-dit grup].
+Me llamo [TU NOMBRE] y soy especialista en crédito de Best Credit Group [best KRÉ-dit grup].
 
-Deja tu solicitud ahora mismo y con gusto te ayudo.
+Deja tu solicitud ahora mismo y con gusto te ayudamos.
 
 ### Описание
 
@@ -1767,7 +1767,7 @@ Cada hard inquiry te baja entre 5 y 15 puntos. Además, se queda en tu reporte h
 
 Lo ideal es no tener más de dos o tres hard inquiries al año. Si tienes más, ya es momento de replantear tu estrategia, y los que sobran los podemos eliminar.
 
-Siempre puedes escribirme y con gusto te ayudo.
+Siempre puedes escribirnos a Best Credit Group [best KRÉ-dit grup] y con gusto te ayudamos.
 
 ### Описание
 
@@ -1936,7 +1936,7 @@ Nosotros los encontramos, los documentamos y exigimos que se eliminen. Así es c
 
 Tenemos más de 1,000 casos exitosos.
 
-Llena tu solicitud ahora mismo y te aseguro que te voy a ayudar.
+Llena tu solicitud en Best Credit Group [best KRÉ-dit grup] ahora mismo y te vamos a ayudar, sin duda.
 
 ### Описание
 
@@ -2033,9 +2033,9 @@ Si tienes más de cinco, te van a negar una tarjeta de crédito o cualquier otro
 
 Por eso es importante vigilar cuántos hard inquiries tienes en tu reporte y limpiarlos a tiempo.
 
-Me llamo Yana y soy especialista financiera de Best Credit Group [best KRÉ-dit grup].
+Me llamo [TU NOMBRE] y soy especialista financiera de Best Credit Group [best KRÉ-dit grup].
 
-Escríbeme y te ayudo a eliminar tus hard inquiries.
+Escríbenos y te ayudamos a eliminar tus hard inquiries.
 
 ### Описание
 
@@ -2071,9 +2071,9 @@ Escríbeme y te ayudo a eliminar tus hard inquiries.
 
 Si tu score [skor] bajó por tener muchos hard inquiries [jard ÍN-kua-ris] y eso no te deja conseguir buen financiamiento, eliminamos tus hard inquiries en 24 horas o te devolvemos tu dinero.
 
-Hola, me llamo Yana y soy especialista financiera de Best Credit Group [best KRÉ-dit grup].
+Hola, me llamo [TU NOMBRE] y soy especialista financiera de Best Credit Group [best KRÉ-dit grup].
 
-Llena tu solicitud ahora mismo y yo me comunico contigo.
+Llena tu solicitud ahora mismo y nos comunicamos contigo.
 
 ### Описание
 
@@ -2162,7 +2162,7 @@ Me llamaron varios clientes: a unos les recortaron el límite y a otros les cerr
 
 Procura que tu reporte de crédito esté limpio. Tuve un cliente al que le reportaron un late payment y ese mismo día American Express le bajó el límite.
 
-Así que, si tienes algún problema, escríbeme y te vamos a ayudar, sin duda.
+Así que, si tienes algún problema, escríbenos a Best Credit Group [best KRÉ-dit grup] y te vamos a ayudar, sin duda.
 
 ### Описание
 
@@ -2202,7 +2202,7 @@ Mira, el problema siempre está en el historial de crédito. Sin un buen histori
 
 Te ayudamos a subir tu puntaje de crédito y a conseguir condiciones normales.
 
-Entra a mi perfil, sígueme, mándame la palabra «Casa» por mensaje directo y recibe un bono de mi parte.
+Entra al perfil de Best Credit Group [best KRÉ-dit grup], síguenos, mándanos la palabra «Casa» por mensaje directo y recibe un bono de nuestra parte.
 
 ### Описание
 
@@ -2254,7 +2254,7 @@ Y el sistema simplemente te marca como riesgo. Y lo más interesante: no están 
 
 Un paso en falso y tu crédito retrocede.
 
-Más adelante te cuento cómo evitarlo. Sígueme.
+Más adelante te contamos cómo evitarlo. Sigue a Best Credit Group [best KRÉ-dit grup].
 
 ### Описание
 
@@ -2306,7 +2306,7 @@ Pero, ojo, algo importante: no dejas saldo, siempre la pagas completa. Así pued
 
 El punto es que, con un mal puntaje de crédito, esas tarjetas simplemente no te las van a dar.
 
-En el próximo video te muestro tarjetas concretas para Estados Unidos. Sígueme para no perdértelo.
+En el próximo video te mostramos tarjetas concretas para Estados Unidos. Sigue a Best Credit Group [best KRÉ-dit grup] para no perdértelo.
 
 ### Описание
 
@@ -2362,7 +2362,7 @@ Ahora mismo vamos a actualizar su reporte de crédito y ver cuánto subió su sc
 
 Subió 105 puntos: ahora su score es de 798, casi 800.
 
-Si quieres lo mismo, escríbeme para una consulta gratis.
+Si quieres lo mismo, escríbenos a Best Credit Group [best KRÉ-dit grup] para una consulta gratis.
 
 ### Описание
 
@@ -2413,7 +2413,7 @@ En unos 6 a 8 meses es totalmente posible llegar a 750, y tu vida va a cambiar a
 
 Y hay una forma de lograrlo más rápido. Te lo cuento en el próximo video.
 
-Sígueme para no perdértelo.
+Sigue a Best Credit Group [best KRÉ-dit grup] para no perdértelo.
 
 ### Описание
 
@@ -2461,7 +2461,7 @@ A los bancos les gusta la gente que demuestra estabilidad.
 
 Si tu historial tiene menos de un año y solo tienes tarjetas de crédito, todavía eres un cliente nuevo. Agrega, por ejemplo, un préstamo de auto, y tu perfil se va a ver mucho más confiable.
 
-Sígueme: hablo del historial de crédito en Estados Unidos.
+Sigue a Best Credit Group [best KRÉ-dit grup]: hablamos del historial de crédito en Estados Unidos.
 
 ### Описание
 
@@ -2524,7 +2524,7 @@ Y tercero, muy importante: no gastes el 30%, como recomiendan los especialistas 
 
 Lo principal es que en el due date [DÚ-deit] no debas más del 9%.
 
-En mi página te cuento todo sobre el historial de crédito en Estados Unidos. Sígueme para no perderte el próximo video.
+En la página de Best Credit Group [best KRÉ-dit grup] te contamos todo sobre el historial de crédito en Estados Unidos. Síguenos para no perderte el próximo video.
 
 ### Описание
 
@@ -2581,7 +2581,7 @@ No cierres la primera: ayuda a que tu historial sea más largo. Cada par de mese
 
 Si haces todo bien, en 12 a 18 meses vas a tener un score [skor] sólido, con el que puedes sacar un auto, una casa y hasta tarjetas con cashback [KÁSH-bak].
 
-Y si no quieres esperar un año y medio y quieres saber cómo acelerar el proceso, escribe un "más" en los comentarios y te contactamos para darte una consulta gratis.
+Y si no quieres esperar un año y medio y quieres saber cómo acelerar el proceso, escribe un "más" en los comentarios y en Best Credit Group [best KRÉ-dit grup] te contactamos para darte una consulta gratis.
 
 ### Описание
 
@@ -2635,7 +2635,7 @@ O sea, en la práctica viven de una deuda que les conviene más que tener efecti
 
 Mientras la gente común trabaja para pagar su hipoteca, los ricos usan la hipoteca para ganar todavía más. Para ellos, la deuda no es un problema, sino una herramienta para manejar su capital.
 
-¿Quieres subir tu score [skor] y tener acceso a hipotecas y tarjetas sin pagar de más? Escríbeme por mensaje directo.
+¿Quieres subir tu score [skor] y tener acceso a hipotecas y tarjetas sin pagar de más? Escríbenos a Best Credit Group [best KRÉ-dit grup] por mensaje directo.
 
 ### Описание
 
@@ -2695,7 +2695,7 @@ Cerrar una tarjeta de crédito vieja. Mal, claro, porque una cuenta antigua le d
 
 Abrir tu primera tarjeta de crédito el primer mes después de mudarte. Está bien. Entre más tarjetas abras, más rápido se empieza a construir tu historial de crédito.
 
-Sigue mi página para empezar a construir tu historial de crédito en Estados Unidos sin complicaciones.
+Sigue la página de Best Credit Group [best KRÉ-dit grup] para empezar a construir tu historial de crédito en Estados Unidos sin complicaciones.
 
 ### Описание
 
@@ -2742,7 +2742,7 @@ Protección: con una tarjeta de crédito puedes cancelar un cargo en disputa; co
 
 Hay que saber usar la tarjeta de crédito, y así va a trabajar para ti.
 
-Sigue mi cuenta para no cometer errores con tus tarjetas de crédito en el futuro.
+Sigue la cuenta de Best Credit Group [best KRÉ-dit grup] para no cometer errores con tus tarjetas de crédito en el futuro.
 
 ### Описание
 
@@ -2782,7 +2782,7 @@ Sigue mi cuenta para no cometer errores con tus tarjetas de crédito en el futur
 
 ### Перевод на испанский
 
-Yana, ¿cuánto se puede ahorrar con un score [skor] alto?
+[TU NOMBRE], ¿cuánto se puede ahorrar con un score [skor] alto?
 
 Mira:
 – Renta de departamento: un depósito de 0 en lugar de 3000 dólares, por ejemplo.
@@ -2792,7 +2792,7 @@ Mira:
 
 Puedes ganar el mismo sueldo, pero gastar la mitad.
 
-Sigue mi cuenta para no cometer errores con las tarjetas de crédito.
+Sigue la cuenta de Best Credit Group [best KRÉ-dit grup] para no cometer errores con las tarjetas de crédito.
 
 ### Описание
 
@@ -2840,7 +2840,7 @@ Tres errores que hacen bajar tu score [skor] sin que te des cuenta.
 
 Las solicitudes hay que hacerlas con cabeza.
 
-Sigue mi cuenta para no cometer errores en el futuro.
+Sigue la cuenta de Best Credit Group [best KRÉ-dit grup] para no cometer errores en el futuro.
 
 ### Описание
 
@@ -2997,7 +2997,7 @@ Tienes una tarjeta de crédito, pero tu puntaje no sube nada o hasta baja, aunqu
 
 Así de simple. Si usas bien tu tarjeta de crédito, tu puntaje sube. Y si ya hay errores en tu reporte, claro que los podemos disputar.
 
-Escríbeme por mensaje directo y te cuento qué se puede hacer en tu caso.
+Escríbenos a Best Credit Group [best KRÉ-dit grup] por mensaje directo y te contamos qué se puede hacer en tu caso.
 
 ### Описание
 
@@ -3041,9 +3041,9 @@ Escríbeme por mensaje directo y te cuento qué se puede hacer en tu caso.
 
 ¿Quieres un auto así en leasing [LÍ-sing] con el pago mensual más bajo? Subimos tu score [skor] a 750 o más.
 
-Me llamo Yana y soy especialista en crédito de Best Credit Group [best KRÉ-dit grup].
+Me llamo [TU NOMBRE] y soy especialista en crédito de Best Credit Group [best KRÉ-dit grup].
 
-Llena tu solicitud ahora mismo y te aseguro que te voy a ayudar.
+Llena tu solicitud ahora mismo y te vamos a ayudar, sin duda.
 
 ### Описание
 
@@ -3098,7 +3098,7 @@ Ninguna de las dos cobra comisión por compras internacionales.
 
 Eso sí, son tarjetas premium [PRÍ-miem], y para que te las aprueben necesitas un score [skor] de 720 o más.
 
-Si tu score está bajo, escríbeme y te aseguro que lo vamos a subir.
+Si tu score está bajo, escríbenos a Best Credit Group [best KRÉ-dit grup] y te aseguramos que lo vamos a subir.
 
 ### Описание
 
@@ -3338,13 +3338,13 @@ Y segundo, por supuesto, la antigüedad de tu empresa. Para los bancos grandes, 
 
 Todos queremos manejar un buen auto, rentar una buena casa, sacar una hipoteca para comprar casa y conseguir financiamiento para nuestras ideas de negocio.
 
-Me llamo Yana y soy especialista financiera de Best Credit Group [best KRÉ-dit grup].
+Me llamo [TU NOMBRE] y soy especialista financiera de Best Credit Group [best KRÉ-dit grup].
 
 Los rechazos constantes, las tasas de interés altas y los enganches elevados no te dejan cumplir ese sueño americano. Un mal historial de crédito te puede salir muy caro, literalmente.
 
 Por eso tienes que revisar tu historial con regularidad y subir tu puntaje.
 
-Si necesitas encontrar los errores que te están bajando el puntaje de crédito, escríbeme y te ayudamos a corregir tu historial.
+Si necesitas encontrar los errores que te están bajando el puntaje de crédito, escríbenos y te ayudamos a corregir tu historial.
 
 ### Описание
 
@@ -3401,9 +3401,9 @@ También te da acceso a financiamiento. Con un buen puntaje es más fácil sacar
 
 Y segundo, te abre oportunidades para crecer. Un portafolio de crédito grande te ayuda a financiar tus ideas de negocio. Y, sobre todo, te da acceso a cantidades más grandes.
 
-Me llamo Yana y soy especialista financiera de Best Credit Group [best KRÉ-dit grup].
+Me llamo [TU NOMBRE] y soy especialista financiera de Best Credit Group [best KRÉ-dit grup].
 
-Si te quedó alguna duda, escríbeme y te ayudo.
+Si te quedó alguna duda, escríbenos y te ayudamos.
 
 ### Описание
 
@@ -3627,7 +3627,7 @@ Y algo muy importante: la antigüedad. También se va a reflejar, y eso te da un
 
 ¿Qué es el campo de concentración financiero en Estados Unidos y cómo caen en él personas que ni siquiera han pedido un crédito?
 
-Tengo clientes así. Por ejemplo, alguien me llama y me dice: «Yana, yo no quiero sacar ningún crédito, no lo necesito para nada».
+Tengo clientes así. Por ejemplo, alguien me llama y me dice: «[TU NOMBRE], yo no quiero sacar ningún crédito, no lo necesito para nada».
 
 Pero el problema es que el sistema de Estados Unidos funciona así: aquí tienes que tener tarjetas de crédito, préstamos de auto, un perfil de crédito amplio.
 
@@ -3674,7 +3674,7 @@ Para mí es una historia muy interesante, porque de vez en cuando de verdad me l
 
 La verdad, en todos mis años de experiencia nunca he visto que alguien realmente saque dinero y se vaya. Bueno, tal vez algunas tarjetas de cinco mil.
 
-Segundo punto. Mira, nosotros no nos dedicamos a eso. Yo no ayudo a ese tipo de personas.
+Segundo punto. Mira, nosotros no nos dedicamos a eso. No ayudamos a ese tipo de personas.
 
 ### Описание
 
@@ -3708,7 +3708,7 @@ Segundo punto. Mira, nosotros no nos dedicamos a eso. Yo no ayudo a ese tipo de 
 ### Перевод на испанский
 
 ¿Cómo te llamas? ¿Cuántos años tienes?
-Me llamo Yana, tengo 31 años.
+Me llamo [TU NOMBRE], tengo [TU EDAD] años.
 
 ¿A qué te dedicas aquí en Estados Unidos?
 Soy especialista en reparación de crédito y dirijo la compañía Best Credit Group [best KRÉ-dit grup].

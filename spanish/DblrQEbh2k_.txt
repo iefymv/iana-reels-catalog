@@ -2,16 +2,16 @@
 https://www.instagram.com/reel/DblrQEbh2k_/
 Español · traducción del texto original
 
-Este es uno de nuestros casos más impresionantes: subir el score de 400 a 800 puntos.
+Este es uno de nuestros casos más impresionantes: subir el score [skor] de 400 a 800 puntos.
 
-Veamos. La clienta nos contactó el 20 de febrero. Su score era de 482 en TransUnion y 469 en Experian.
+Veamos. La clienta nos contactó el 20 de febrero. Su score era de 482 en TransUnion [trans-IÚ-nion] y 469 en Experian [eks-PÍ-rian].
 
-Bajamos y vemos en la columna Delinquent el motivo de un puntaje de crédito tan bajo. Tiene tres cuentas abiertas con late payments: late payments en tarjetas de crédito de Capital One, en tres cuentas.
+Bajamos y vemos en la columna Delinquent [di-LÍN-kuent] el motivo de un puntaje de crédito tan bajo. Tiene tres cuentas abiertas con late payments [leit PÉI-ments]: late payments en tarjetas de crédito de Capital One [KÁ-pi-tol uan], en tres cuentas.
 
 Terminamos el caso el 28 de julio y hoy su score es de:
 – TransUnion: 795
 – Experian: 792
-– Equifax: 803
+– Equifax [É-kui-faks]: 803
 
 Bajamos y revisamos los late payments de las cuentas abiertas. La columna Delinquent está toda en cero. O sea, eliminamos los late payments de cuentas abiertas.
 

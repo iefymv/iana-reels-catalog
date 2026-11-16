@@ -4,25 +4,25 @@ Español · traducción del texto original
 
 Aquí tenemos dos reportes de crédito de un cliente: el primero, de cuando nos contactó, y el segundo, de cuando terminamos su caso.
 
-A la izquierda, cuando nos contactó: su score era de 691 en TransUnion y 664 en Experian. Nos contactó el 22 de abril, lo vemos aquí arriba.
+A la izquierda, cuando nos contactó: su score [skor] era de 691 en TransUnion [trans-IÚ-nion] y 664 en Experian [eks-PÍ-rian]. Nos contactó el 22 de abril, lo vemos aquí arriba.
 
 A la derecha ya estamos al 1 de julio: su score es de 756, y de 758 en Experian.
 
 Veamos su reporte de crédito de cuando nos contactó. Tiene registros negativos:
 – TransUnion: 2
 – Experian: 1
-– Equifax: 1
+– Equifax [É-kui-faks]: 1
 
-Y muchísimos hard inquiries:
+Y muchísimos hard inquiries [jard ÍN-kua-ris]:
 – TransUnion: 9
 – Experian: 13
 – Equifax: 4
 
-Tenía un charge-off de Bank of America. Y, por cierto, en esa cuenta lo habían agregado como usuario autorizado.
+Tenía un charge-off [CHARCH-of] de Bank of America [bank of a-MÉ-ri-ka]. Y, por cierto, en esa cuenta lo habían agregado como usuario autorizado.
 
 Así que ten en cuenta que, cuando te agregan a la cuenta de otra persona, esto puede pasar y arruinar tu historial de crédito. Por eso, hazlo siempre con proveedores de confianza.
 
-También tenía una collection de Verizon. Probablemente es la collection más común de todas.
+También tenía una collection [ko-LÉK-shon] de Verizon [ve-RÁI-zon]. Probablemente es la collection más común de todas.
 
 A la derecha vemos que ya corregimos su historial de crédito. Bajamos. Aquí los registros negativos están todos en cero: ya no está ni el charge-off de Bank of America ni la collection de Verizon.
 

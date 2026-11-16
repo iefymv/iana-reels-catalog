@@ -2,11 +2,11 @@
 https://www.instagram.com/reel/DSnmwNiEjWm/
 Español · traducción del texto original
 
-Tengo un cliente con una cuenta en charge-off en su reporte de crédito. Aparece en los tres burós: TransUnion, Experian y Equifax.
+Tengo un cliente con una cuenta en charge-off [CHARCH-of] en su reporte de crédito. Aparece en los tres burós: TransUnion [trans-IÚ-nion], Experian [eks-PÍ-rian] y Equifax [É-kui-faks].
 
-Aquí ya vemos la marca negativa de charge-off. El score es 512, 510 y 484.
+Aquí ya vemos la marca negativa de charge-off. El score [skor] es 512, 510 y 484.
 
-¿Por qué aquí el score es más bajo? Porque además tiene una collection de IT&T.
+¿Por qué aquí el score es más bajo? Porque además tiene una collection [ko-LÉK-shon] de IT&T.
 
 También tiene una tarjeta de crédito asegurada, pero esa no la tocamos: está bien.
 

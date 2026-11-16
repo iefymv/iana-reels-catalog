@@ -21,25 +21,25 @@
 
 Aquí tenemos dos reportes de crédito de un cliente: el primero, de cuando nos contactó, y el segundo, de cuando terminamos su caso.
 
-A la izquierda, cuando nos contactó: su score era de 691 en TransUnion y 664 en Experian. Nos contactó el 22 de abril, lo vemos aquí arriba.
+A la izquierda, cuando nos contactó: su score [skor] era de 691 en TransUnion [trans-IÚ-nion] y 664 en Experian [eks-PÍ-rian]. Nos contactó el 22 de abril, lo vemos aquí arriba.
 
 A la derecha ya estamos al 1 de julio: su score es de 756, y de 758 en Experian.
 
 Veamos su reporte de crédito de cuando nos contactó. Tiene registros negativos:
 – TransUnion: 2
 – Experian: 1
-– Equifax: 1
+– Equifax [É-kui-faks]: 1
 
-Y muchísimos hard inquiries:
+Y muchísimos hard inquiries [jard ÍN-kua-ris]:
 – TransUnion: 9
 – Experian: 13
 – Equifax: 4
 
-Tenía un charge-off de Bank of America. Y, por cierto, en esa cuenta lo habían agregado como usuario autorizado.
+Tenía un charge-off [CHARCH-of] de Bank of America [bank of a-MÉ-ri-ka]. Y, por cierto, en esa cuenta lo habían agregado como usuario autorizado.
 
 Así que ten en cuenta que, cuando te agregan a la cuenta de otra persona, esto puede pasar y arruinar tu historial de crédito. Por eso, hazlo siempre con proveedores de confianza.
 
-También tenía una collection de Verizon. Probablemente es la collection más común de todas.
+También tenía una collection [ko-LÉK-shon] de Verizon [ve-RÁI-zon]. Probablemente es la collection más común de todas.
 
 A la derecha vemos que ya corregimos su historial de crédito. Bajamos. Aquí los registros negativos están todos en cero: ya no está ni el charge-off de Bank of America ni la collection de Verizon.
 
@@ -79,17 +79,17 @@ Experian теперь не удаляет hard inquiries с позвонком. 
 
 ### Перевод на испанский
 
-Experian ya no elimina hard inquiries por teléfono.
+Experian [eks-PÍ-rian] ya no elimina hard inquiries [jard ÍN-kua-ris] por teléfono.
 
-Antes podías llamar a Experian, decir que tus inquiries no estaban autorizados y, con eso, te los eliminaban en 1 o 2 días.
+Antes podías llamar a Experian, decir que tus inquiries [ÍN-kua-ris] no estaban autorizados y, con eso, te los eliminaban en 1 o 2 días.
 
 Hace ya como un mes publicaron un comunicado oficial, junto con otros cambios: los inquiries ya no se eliminan por llamada.
 
-¿Qué significa esto para nosotros? Para Best Credit for You no cambia nada, porque tenemos otros métodos para eliminarlos. Todo sigue igual.
+¿Qué significa esto para nosotros? Para Best Credit for You [best KRÉ-dit for iu] no cambia nada, porque tenemos otros métodos para eliminarlos. Todo sigue igual.
 
 ¿Qué significa para otras compañías? Si una compañía tenía un solo método, la llamada, lo más probable es que ahora aparezcan muchísimas estafas.
 
-¿Y qué significa para la gente? Que ahora va a tener que pagar para eliminarlos de Experian. Antes podías hacerlo tú mismo con Experian y solo acudir a una compañía de reparación de crédito para TransUnion y Equifax. Ahora vas a tener que pagar también por Experian.
+¿Y qué significa para la gente? Que ahora va a tener que pagar para eliminarlos de Experian. Antes podías hacerlo tú mismo con Experian y solo acudir a una compañía de reparación de crédito para TransUnion [trans-IÚ-nion] y Equifax [É-kui-faks]. Ahora vas a tener que pagar también por Experian.
 
 Si necesitas eliminar hard inquiries, escríbeme y te asesoro.
 
@@ -125,16 +125,16 @@ Si necesitas eliminar hard inquiries, escríbeme y te asesoro.
 
 ### Перевод на испанский
 
-Este es uno de nuestros casos más impresionantes: subir el score de 400 a 800 puntos.
+Este es uno de nuestros casos más impresionantes: subir el score [skor] de 400 a 800 puntos.
 
-Veamos. La clienta nos contactó el 20 de febrero. Su score era de 482 en TransUnion y 469 en Experian.
+Veamos. La clienta nos contactó el 20 de febrero. Su score era de 482 en TransUnion [trans-IÚ-nion] y 469 en Experian [eks-PÍ-rian].
 
-Bajamos y vemos en la columna Delinquent el motivo de un puntaje de crédito tan bajo. Tiene tres cuentas abiertas con late payments: late payments en tarjetas de crédito de Capital One, en tres cuentas.
+Bajamos y vemos en la columna Delinquent [di-LÍN-kuent] el motivo de un puntaje de crédito tan bajo. Tiene tres cuentas abiertas con late payments [leit PÉI-ments]: late payments en tarjetas de crédito de Capital One [KÁ-pi-tol uan], en tres cuentas.
 
 Terminamos el caso el 28 de julio y hoy su score es de:
 – TransUnion: 795
 – Experian: 792
-– Equifax: 803
+– Equifax [É-kui-faks]: 803
 
 Bajamos y revisamos los late payments de las cuentas abiertas. La columna Delinquent está toda en cero. O sea, eliminamos los late payments de cuentas abiertas.
 
@@ -173,16 +173,16 @@ Si tú quieres lo mismo, escríbeme para una consulta gratis.
 
 Ahora vamos a revisar uno de los casos más interesantes de un cliente.
 
-Nos contactó en mayo. Su score era de:
-– Experian: 547
-– TransUnion: 589
-– Equifax: 631
+Nos contactó en mayo. Su score [skor] era de:
+– Experian [eks-PÍ-rian]: 547
+– TransUnion [trans-IÚ-nion]: 589
+– Equifax [É-kui-faks]: 631
 
 Variaba un poco porque las cuentas no aparecían en todos los burós.
 
-En TransUnion, Experian y Equifax tenía una cuenta en charge-off. Vemos que ese charge-off tiene un saldo de 66 dólares, pero aun así sigue siendo un charge-off.
+En TransUnion, Experian y Equifax tenía una cuenta en charge-off [CHARCH-of]. Vemos que ese charge-off tiene un saldo de 66 dólares, pero aun así sigue siendo un charge-off.
 
-Y en TransUnion y Experian, además, tenía una collection de Verizon por 963 dólares.
+Y en TransUnion y Experian, además, tenía una collection [ko-LÉK-shon] de Verizon [ve-RÁI-zon] por 963 dólares.
 
 Eliminamos tanto la collection como el charge-off. Ahora veamos el reporte de crédito del 8 de julio: su score en TransUnion ya es de 709.
 
@@ -219,18 +219,18 @@ Subió más de 120 puntos por eliminar dos cuentas negativas.
 
 ### Перевод на испанский
 
-Una clienta nos contactó con late payments de 30 y 60 días en su historial de crédito.
+Una clienta nos contactó con late payments [leit PÉI-ments] de 30 y 60 días en su historial de crédito.
 
-Su score era de:
-– TransUnion: 622
-– Experian: 618
-– Equifax: 623
+Su score [skor] era de:
+– TransUnion [trans-IÚ-nion]: 622
+– Experian [eks-PÍ-rian]: 618
+– Equifax [É-kui-faks]: 623
 
 Tenía una cuenta cerrada con late payments, de 30 y 60 días. Nos contactó el 5.08.2026.
 
 Ahora veamos cuánto subió al 12 de junio. Su score subió a 690, o sea, unos 70 puntos más, y la cuenta ya no aparece.
 
-Ahora les explico por qué no subió más. Porque tiene una utilización de crédito muy alta. Tiene tarjetas de crédito de Bank of America y de Discover con saldo, así que está usando un porcentaje muy alto de su límite.
+Ahora les explico por qué no subió más. Porque tiene una utilización de crédito muy alta. Tiene tarjetas de crédito de Bank of America [bank of a-MÉ-ri-ka] y de Discover [dis-KÁ-ver] con saldo, así que está usando un porcentaje muy alto de su límite.
 
 Si no tuviera esa utilización tan alta, su score habría llegado a unos 730 o 740. Pero, lamentablemente, así quedó.
 
@@ -269,23 +269,23 @@ Si tienes late payments en tu historial de crédito, contáctanos y te vamos a a
 
 En esta vida nunca hay que presumir.
 
-Acababa de grabar un video diciendo que tenía un historial de crédito perfecto, casi 800, y tarjetas con límites altos. Limpié mis consultas de crédito, saqué en leasing una Honda CR-V nueva y mi score se desplomó 70 puntos.
+Acababa de grabar un video diciendo que tenía un historial de crédito perfecto, casi 800, y tarjetas con límites altos. Limpié mis consultas de crédito, saqué en leasing [LÍ-sing] una Honda CR-V [JÓN-da si-ar-VI] nueva y mi score [skor] se desplomó 70 puntos.
 
 Alguien dirá: «Bueno, sacaste un carro, después vuelve a subir». Ya pasaron casi cinco meses y no solo no sube, sino que sigue bajando.
 
-Vine a Best Credit For You, que fue donde me eliminaron las consultas de crédito. Yana… ¿Cuál es mi problema? Me bajó el score.
+Vine a Best Credit For You [best KRÉ-dit for iu], que fue donde me eliminaron las consultas de crédito. Yana… ¿Cuál es mi problema? Me bajó el score.
 
 Mira, que te baje el score es normal; en general, no puede subir todo el tiempo. Pero hay que averiguar por qué no se recupera.
 
 Y encima baja.
 
-Sí, y más si sigue bajando. Puede ser la utilización, puede que haya aparecido algo en tu historial de crédito, o que tu carro nuevo se haya reportado como carga financiera y por eso bajó el score. Ahora mismo sacamos tu reporte en SmartCredit y lo revisamos.
+Sí, y más si sigue bajando. Puede ser la utilización, puede que haya aparecido algo en tu historial de crédito, o que tu carro nuevo se haya reportado como carga financiera y por eso bajó el score. Ahora mismo sacamos tu reporte en SmartCredit [smart-KRÉ-dit] y lo revisamos.
 
-¿Y si tengo unos seis inquiries? Eso no puede afectar tanto, ¿no?
+¿Y si tengo unos seis inquiries [ÍN-kua-ris]? Eso no puede afectar tanto, ¿no?
 
-No, no puede afectar tanto. Tu score no puede bajar así por tener seis hard inquiries.
+No, no puede afectar tanto. Tu score no puede bajar así por tener seis hard inquiries [jard ÍN-kua-ris].
 
-Amigos, les digo: vengan con nosotros si necesitan quitar consultas de crédito, collections u otros problemas. Charge-offs, repossessions, limpiar el historial de crédito.
+Amigos, les digo: vengan con nosotros si necesitan quitar consultas de crédito, collections [ko-LÉK-shons] u otros problemas. Charge-offs [CHARCH-ofs], repossessions [ri-po-SÉ-shons], limpiar el historial de crédito.
 
 Ahora también trabajamos con bancarrotas, o sea, eliminamos la bancarrota.
 
@@ -322,9 +322,9 @@ Bueno, gracias a Dios, yo no he llegado a eso. Gracias a Dios. Pero muy pronto m
 
 ### Перевод на испанский
 
-Amigos, ahora les voy a mostrar cómo le eliminamos a una clienta una cuenta con late payments y cuánto le subió el puntaje de crédito.
+Amigos, ahora les voy a mostrar cómo le eliminamos a una clienta una cuenta con late payments [leit PÉI-ments] y cuánto le subió el puntaje de crédito.
 
-Veamos: su score era de 655 y tenía una cuenta negativa. Ahora la abrimos y la revisamos. ¿Ven? Tenía tres meses de late payments.
+Veamos: su score [skor] era de 655 y tenía una cuenta negativa. Ahora la abrimos y la revisamos. ¿Ven? Tenía tres meses de late payments.
 
 Vamos a actualizar su reporte de crédito ahora mismo, aquí con ustedes, y a ver cuántos puntos subió por eliminar esa cuenta.
 
@@ -361,9 +361,9 @@ Subió 86 puntos y, obviamente, el registro negativo se eliminó.
 
 ### Перевод на испанский
 
-Un cliente nuestro tenía una collection. Ahora se las muestro.
+Un cliente nuestro tenía una collection [ko-LÉK-shon]. Ahora se las muestro.
 
-Su score era de 583. ¿Ven? Aquí está la collection y el score de 583.
+Su score [skor] era de 583. ¿Ven? Aquí está la collection y el score de 583.
 
 Ahora actualizo el reporte de crédito y vemos cuántos puntos subió y si se eliminó la collection.
 
@@ -400,7 +400,7 @@ Subió 157 puntos y la collection ya no está. Hoy su score es de 740.
 
 ### Перевод на испанский
 
-Amigos, miren: una clienta me contactó con un score de 560 y dos registros negativos. Son dos charge-offs.
+Amigos, miren: una clienta me contactó con un score [skor] de 560 y dos registros negativos. Son dos charge-offs [CHARCH-ofs].
 
 Ahora mismo actualizo su reporte de crédito. Vamos a ver si se eliminaron esos registros y cuántos puntos subió.
 
@@ -439,9 +439,9 @@ Si tú quieres lo mismo, escríbeme para una consulta gratis.
 
 ### Перевод на испанский
 
-Miren, a un cliente le eliminaron una sola cuenta negativa, un charge-off, y de inmediato su score subió 114 puntos. Ahora les muestro.
+Miren, a un cliente le eliminaron una sola cuenta negativa, un charge-off [CHARCH-of], y de inmediato su score [skor] subió 114 puntos. Ahora les muestro.
 
-Tenía un charge-off en los tres burós y su score en TransUnion era de 614. Vamos a actualizar su reporte de crédito y a comprobarlo.
+Tenía un charge-off en los tres burós y su score en TransUnion [trans-IÚ-nion] era de 614. Vamos a actualizar su reporte de crédito y a comprobarlo.
 
 De inmediato: score de 727. Bajamos y la cuenta ya se eliminó. ¿Ven? Todas las cuentas están limpias. Listo, su historial de crédito quedó limpio.
 
@@ -481,12 +481,12 @@ Si tú quieres lo mismo y tienes registros negativos en tu historial de crédito
 ¿Los bancos te dan préstamos con intereses altos, la renta te sale cara y te rechazan una y otra vez?
 
 Eso significa que en tu historial de crédito hay registros negativos, como:
-– hard inquiries
-– collections
-– charge-offs
-– late payments
+– hard inquiries [jard ÍN-kua-ris]
+– collections [ko-LÉK-shons]
+– charge-offs [CHARCH-ofs]
+– late payments [leit PÉI-ments]
 
-Podemos corregir todo eso y volver a subir tu score.
+Podemos corregir todo eso y volver a subir tu score [skor].
 
 Déjanos tu solicitud ahora mismo para una consulta gratis.
 
@@ -521,13 +521,13 @@ Déjanos tu solicitud ahora mismo para una consulta gratis.
 
 ### Перевод на испанский
 
-¿Cómo le subimos el score 130 puntos a un cliente?
+¿Cómo le subimos el score [skor] 130 puntos a un cliente?
 
-Veamos: tenía una collection por 5773 y también un préstamo estudiantil, aquí con late payments. Su score en TransUnion era de 622.
+Veamos: tenía una collection [ko-LÉK-shon] por 5773 y también un préstamo estudiantil, aquí con late payments [leit PÉI-ments]. Su score en TransUnion [trans-IÚ-nion] era de 622.
 
 Ahora vamos a actualizar su reporte de crédito para ver si se eliminaron los registros negativos y cuál es su score hoy.
 
-Tiene 751 puntos y ya no hay registros negativos: las columnas Derogatory y Delinquent están en cero.
+Tiene 751 puntos y ya no hay registros negativos: las columnas Derogatory [di-RÁ-ga-to-ri] y Delinquent [di-LÍN-kuent] están en cero.
 
 Así que, si tú quieres lo mismo, si tienes problemas con tu historial de crédito, escríbeme para una consulta gratis.
 
@@ -562,9 +562,9 @@ Late payment на открытом аккаунте → просмотр отч�
 
 ### Перевод на испанский
 
-Un cliente vino con nosotros para sacar un préstamo para su negocio, pero de repente le apareció un late payment en una cuenta abierta.
+Un cliente vino con nosotros para sacar un préstamo para su negocio, pero de repente le apareció un late payment [leit PÉI-ment] en una cuenta abierta.
 
-Su score bajó casi 100 puntos.
+Su score [skor] bajó casi 100 puntos.
 
 Le eliminamos ese late payment en tiempo récord y su score volvió a estar alto.
 
@@ -603,12 +603,12 @@ Si quieres lo mismo, contáctame para una consulta gratis.
 
 ### Перевод на испанский
 
-Un cliente vino con nosotros para eliminar un late payment.
+Un cliente vino con nosotros para eliminar un late payment [leit PÉI-ment].
 
-Cuando nos contactó, su score era:
-– TransUnion: 697
-– Experian: 699
-– Equifax: 664
+Cuando nos contactó, su score [skor] era:
+– TransUnion [trans-IÚ-nion]: 697
+– Experian [eks-PÍ-rian]: 699
+– Equifax [É-kui-faks]: 664
 
 Era un late payment de 30 días. Nos contactó el 29 de diciembre.
 
@@ -620,7 +620,7 @@ Y el score subió:
 
 Si bajamos, vemos que el late payment ya no aparece en el historial de crédito.
 
-Si tienes late payments en tu reporte de crédito, podemos corregir todo eso y devolver tu score a niveles altos.
+Si tienes late payments [leit PÉI-ments] en tu reporte de crédito, podemos corregir todo eso y devolver tu score a niveles altos.
 
 Déjanos tu solicitud ahora mismo y te vamos a ayudar.
 
@@ -655,14 +655,14 @@ Déjanos tu solicitud ahora mismo y te vamos a ayudar.
 
 ### Перевод на испанский
 
-Eliminamos 35 hard inquiries de un reporte de crédito.
+Eliminamos 35 hard inquiries [jard ÍN-kua-ris] de un reporte de crédito.
 
 Mira, el cliente tenía:
-– TransUnion: 24 inquiries
-– Experian: 18
-– Equifax: 5
+– TransUnion [trans-IÚ-nion]: 24 inquiries [ÍN-kua-ris]
+– Experian [eks-PÍ-rian]: 18
+– Equifax [É-kui-faks]: 5
 
-Su score era de 720, 721 en Experian y 752 en Equifax, porque ahí tenía menos inquiries.
+Su score [skor] era de 720, 721 en Experian y 752 en Equifax, porque ahí tenía menos inquiries.
 
 Ahora actualizamos su reporte de crédito. Mira cuánto subió el score: 758, igual en los tres burós.
 
@@ -701,14 +701,14 @@ Si quieres lo mismo, déjanos tu solicitud ahora y te vamos a ayudar.
 
 ### Перевод на испанский
 
-Le eliminamos a una clienta 41 hard inquiries de los tres burós, y por eso su score subió 100 puntos. Déjenme mostrarles.
+Le eliminamos a una clienta 41 hard inquiries [jard ÍN-kua-ris] de los tres burós, y por eso su score [skor] subió 100 puntos. Déjenme mostrarles.
 
 La clienta nos contactó a finales de noviembre, y su score era:
-– TransUnion: 567
-– Experian: 608
-– Equifax: 655
+– TransUnion [trans-IÚ-nion]: 567
+– Experian [eks-PÍ-rian]: 608
+– Equifax [É-kui-faks]: 655
 
-Si bajamos, vemos 23 inquiries en TransUnion, 16 en Experian y 4 en Equifax.
+Si bajamos, vemos 23 inquiries [ÍN-kua-ris] en TransUnion, 16 en Experian y 4 en Equifax.
 
 Ahora vamos a ver el reporte actualizado del 12 de enero. En TransUnion el score subió casi 100 puntos, porque la mayoría de los inquiries estaban justo en TransUnion.
 
@@ -748,7 +748,7 @@ Charge-off клиента → отчёт до → удаление → плюс 
 
 ### Перевод на испанский
 
-Aquí el cliente tiene un score de 649 y una sola cuenta negativa: un charge-off.
+Aquí el cliente tiene un score [skor] de 649 y una sola cuenta negativa: un charge-off [CHARCH-of].
 
 Nos contactó el 17 de noviembre.
 
@@ -789,11 +789,11 @@ Si quieres arreglar tu historial de crédito, contáctanos y te vamos a ayudar.
 
 ### Перевод на испанский
 
-Tengo un cliente con una cuenta en charge-off en su reporte de crédito. Aparece en los tres burós: TransUnion, Experian y Equifax.
+Tengo un cliente con una cuenta en charge-off [CHARCH-of] en su reporte de crédito. Aparece en los tres burós: TransUnion [trans-IÚ-nion], Experian [eks-PÍ-rian] y Equifax [É-kui-faks].
 
-Aquí ya vemos la marca negativa de charge-off. El score es 512, 510 y 484.
+Aquí ya vemos la marca negativa de charge-off. El score [skor] es 512, 510 y 484.
 
-¿Por qué aquí el score es más bajo? Porque además tiene una collection de IT&T.
+¿Por qué aquí el score es más bajo? Porque además tiene una collection [ko-LÉK-shon] de IT&T.
 
 También tiene una tarjeta de crédito asegurada, pero esa no la tocamos: está bien.
 
@@ -839,9 +839,9 @@ Ahora el cliente puede empezar de cero a construir su historial de crédito y ha
 
 ### Перевод на испанский
 
-El cliente tenía una sola cuenta, de Bank of America, con muchos late payments.
+El cliente tenía una sola cuenta, de Bank of America [bank of a-MÉ-ri-ka], con muchos late payments [leit PÉI-ments].
 
-La cuenta ya está cerrada, la deuda es de 2902 y su score es de 497.
+La cuenta ya está cerrada, la deuda es de 2902 y su score [skor] es de 497.
 
 Como era su única cuenta y ya estaba cerrada, el cliente vino con nosotros para eliminarla.
 
@@ -884,17 +884,17 @@ Si alguna vez cometiste los mismos errores, contáctanos y vamos a arreglar todo
 
 ### Перевод на испанский
 
-Eliminamos 74 hard inquiries de TransUnion, Experian y Equifax. Ahora te muestro.
+Eliminamos 74 hard inquiries [jard ÍN-kua-ris] de TransUnion [trans-IÚ-nion], Experian [eks-PÍ-rian] y Equifax [É-kui-faks]. Ahora te muestro.
 
 Mira, la clienta tenía:
 – TransUnion: 23 hard inquiries
 – Experian: 52
 – Equifax: 3
 
-Su score en TransUnion era de 603.
+Su score [skor] en TransUnion era de 603.
 
 Ahora actualizamos el reporte de crédito. Hoy vemos que sumó 50 puntos, y quedaron:
-– TransUnion: 1 hard inquiry
+– TransUnion: 1 hard inquiry [jard ÍN-kua-ri]
 – Experian: 3
 – Equifax: 0
 
@@ -933,7 +933,7 @@ Charge-off account → исходные баллы и запись → удал�
 
 ### Перевод на испанский
 
-Aquí el cliente tenía una cuenta en charge-off. Su score era de 663 en TransUnion, y de 666 en Experian y Equifax.
+Aquí el cliente tenía una cuenta en charge-off [CHARCH-of]. Su score [skor] era de 663 en TransUnion [trans-IÚ-nion], y de 666 en Experian [eks-PÍ-rian] y Equifax [É-kui-faks].
 
 Vemos que hay una cuenta negativa: un charge-off. Vamos a bajar para encontrarla.
 
@@ -974,17 +974,17 @@ El score es de 703, y de 706 en Equifax. El charge-off se eliminó.
 
 ### Перевод на испанский
 
-Este cliente subió 190 puntos porque le eliminamos tres cuentas en charge-off.
+Este cliente subió 190 puntos porque le eliminamos tres cuentas en charge-off [CHARCH-of].
 
 Cuando tienes marcas negativas en tu reporte de crédito, como:
-– charge-offs
-– collections
-– late payments
+– charge-offs [CHARCH-ofs]
+– collections [ko-LÉK-shons]
+– late payments [leit PÉI-ments]
 – o simplemente una cuenta cerrada que tuvo muchos late payments
 
-no tiene sentido hacer un boost, es decir, agregarte como usuario autorizado. Simplemente no va a funcionar.
+no tiene sentido hacer un boost [bust], es decir, agregarte como usuario autorizado. Simplemente no va a funcionar.
 
-Primero hay que limpiar el reporte, y eso ya sube tu score.
+Primero hay que limpiar el reporte, y eso ya sube tu score [skor].
 
 Como ves, al cliente al que le eliminamos tres cuentas en charge-off el score le subió de inmediato 190 puntos.
 
@@ -1019,7 +1019,7 @@ Como ves, al cliente al que le eliminamos tres cuentas en charge-off el score le
 
 ### Перевод на испанский
 
-Aquí el cliente tiene un late payment. Su score ahora es de 664.
+Aquí el cliente tiene un late payment [leit PÉI-ment]. Su score [skor] ahora es de 664.
 
 Vamos a actualizar su reporte de crédito para ver si se eliminó el late payment.
 
@@ -1059,7 +1059,7 @@ Su score es de 701.
 
 ### Перевод на испанский
 
-El cliente tiene dos cuentas en charge-off y su score ahora es de 638.
+El cliente tiene dos cuentas en charge-off [CHARCH-of] y su score [skor] ahora es de 638.
 
 Ahora mismo vamos a actualizar el reporte de crédito para ver cuántos puntos sumó y si se eliminaron los registros negativos.
 
@@ -1099,18 +1099,18 @@ Charge-off клиента → исходные показатели → удал
 
 ### Перевод на испанский
 
-94 puntos por eliminar una cuenta en charge-off.
+94 puntos por eliminar una cuenta en charge-off [CHARCH-of].
 
-Mi clienta tenía un charge-off de American Express con una deuda de 3057 dólares.
+Mi clienta tenía un charge-off de American Express [a-MÉ-ri-kan eks-PRÉS] con una deuda de 3057 dólares.
 
-Su score era:
-– TransUnion: 561
-– Experian: 558
-– Equifax: 538
+Su score [skor] era:
+– TransUnion [trans-IÚ-nion]: 561
+– Experian [eks-PÍ-rian]: 558
+– Equifax [É-kui-faks]: 538
 
 Nos contactó el 22 de agosto. Hoy, 23 de octubre, su score subió 94 puntos y el charge-off se eliminó.
 
-Quedó solo una cuenta de Capital One, que simplemente está cerrada. No hay nada más.
+Quedó solo una cuenta de Capital One [KÁ-pi-tol uan], que simplemente está cerrada. No hay nada más.
 
 ### Описание
 
@@ -1143,7 +1143,7 @@ Quedó solo una cuenta de Capital One, que simplemente está cerrada. No hay nad
 
 ### Перевод на испанский
 
-Háblame de la empresa Best Credit For You. ¿Recomiendas esta empresa?
+Háblame de la empresa Best Credit For You [best KRÉ-dit for iu]. ¿Recomiendas esta empresa?
 
 Sí, la recomiendo. Los recomendaría porque trabajan con transparencia, cumplen todas las leyes y además colaboran con un socio confiable, SmartQR, que no trabaja con empresas fraudulentas.
 
@@ -1182,9 +1182,9 @@ Así que sí: si necesitas mejorar tu historial de crédito, son una opción bas
 
 Tres palabras en el reporte de crédito que asustan a todos.
 
-– Collection: es cuando tu deuda pasó a una agencia de cobro. Eso ya es una marca negra, y se queda en tu reporte de crédito durante 7 años.
-– Charge-off account: significa que el banco ya dio tu deuda por perdida, pero después de eso tu score cae mucho.
-– Hard inquiries: cada consulta de crédito le resta a tu score entre 2 y 15 puntos, sobre todo si hay muchas seguidas.
+– Collection [ko-LÉK-shon]: es cuando tu deuda pasó a una agencia de cobro. Eso ya es una marca negra, y se queda en tu reporte de crédito durante 7 años.
+– Charge-off account [CHARCH-of a-KÁUNT]: significa que el banco ya dio tu deuda por perdida, pero después de eso tu score [skor] cae mucho.
+– Hard inquiries [jard ÍN-kua-ris]: cada consulta de crédito le resta a tu score entre 2 y 15 puntos, sobre todo si hay muchas seguidas.
 
 Te ayudamos a leer y entender tus reportes, y te explicamos qué hacer con ellos.
 
@@ -1221,9 +1221,9 @@ Sígueme si quieres saber más.
 
 ### Перевод на испанский
 
-Chicos, eliminamos una collection de 163 mil dólares.
+Chicos, eliminamos una collection [ko-LÉK-shon] de 163 mil dólares.
 
-Miren: el cliente tenía una collection de 163 mil dólares en los tres burós. Aquí aparece como collection, charge-off.
+Miren: el cliente tenía una collection de 163 mil dólares en los tres burós. Aquí aparece como collection, charge-off [CHARCH-of].
 
 Ahora actualizamos el reporte de crédito. Aquí también vemos que aparece: 1, 1, 1.
 
@@ -1264,19 +1264,19 @@ Listo: el reporte de crédito está limpio. Ya no está la collection de 163 mil
 
 ### Перевод на испанский
 
-Este cliente nos contactó en febrero de 2025. Su score era de 485.
+Este cliente nos contactó en febrero de 2025. Su score [skor] era de 485.
 
-Les voy a mostrar cómo estaba su historial de crédito: una enorme cantidad de charge-offs y una cantidad increíble de collections.
+Les voy a mostrar cómo estaba su historial de crédito: una enorme cantidad de charge-offs [CHARCH-ofs] y una cantidad increíble de collections [ko-LÉK-shons].
 
 Aquí vemos los charge-offs. Y aquí, el monto de la deuda en sus collections.
 
-Bajamos: 659 dólares, ahí había 200. También 64,303 dólares, que también es una collection. Y aquí vemos otra collection de 307 dólares.
+Bajamos: 659 dólares, ahí había 200. También 64,303 dólares, que también es una collection [ko-LÉK-shon]. Y aquí vemos otra collection de 307 dólares.
 
-Hoy es 8 de octubre. Actualizamos su reporte de crédito y vemos que se eliminaron todas las cuentas negativas, y su score subió a 695 y a 728 en Equifax.
+Hoy es 8 de octubre. Actualizamos su reporte de crédito y vemos que se eliminaron todas las cuentas negativas, y su score subió a 695 y a 728 en Equifax [É-kui-faks].
 
-No tiene marcas negativas. Solo hay un derogatory: es una collection nueva que apareció hace muy poco.
+No tiene marcas negativas. Solo hay un derogatory [di-RÁ-ga-to-ri]: es una collection nueva que apareció hace muy poco.
 
-Si revisamos el reporte de crédito, lo que queda es un late payment antiguo, de 2020, que en realidad ya no afecta tanto. Charge-offs y collections en su historial ya no hay.
+Si revisamos el reporte de crédito, lo que queda es un late payment [leit PÉI-ment] antiguo, de 2020, que en realidad ya no afecta tanto. Charge-offs y collections en su historial ya no hay.
 
 O sea, su cuenta está limpia, como nueva. Esta es la collection nueva que apareció el 26 de septiembre.
 
@@ -1311,16 +1311,16 @@ O sea, su cuenta está limpia, como nueva. Esta es la collection nueva que apare
 
 ### Перевод на испанский
 
-Si vives en Estados Unidos y tienes un score bajo, no te van a rentar una buena vivienda sin un depósito doble.
+Si vives en Estados Unidos y tienes un score [skor] bajo, no te van a rentar una buena vivienda sin un depósito doble.
 
 Un auto, solo con intereses altísimos. Y una tarjeta de crédito te la aprueban con un máximo de 300 a 500 dólares.
 
 Y luego nos preguntamos por qué todo es tan caro y adónde se va el dinero. La causa puede ser un mal historial de crédito.
 
 A eso nos dedicamos. Eliminamos:
-– hard inquiries
-– collections
-– charge-offs
+– hard inquiries [jard ÍN-kua-ris]
+– collections [ko-LÉK-shons]
+– charge-offs [CHARCH-ofs]
 
 Trabajamos de manera oficial en todo Estados Unidos a través de los burós de crédito. Si estás en California, puedes venir a nuestra oficina.
 
@@ -1373,16 +1373,16 @@ Charge-off на крупную сумму → проверка записей в
 
 ### Перевод на испанский
 
-Le eliminamos a un cliente charge-offs con una deuda de 40 mil dólares. Les muestro.
+Le eliminamos a un cliente charge-offs [CHARCH-ofs] con una deuda de 40 mil dólares. Les muestro.
 
 Aquí, en el reporte de crédito, vemos que tiene charge-offs:
-– TransUnion: 5
-– Experian: 4
-– Equifax: 3
+– TransUnion [trans-IÚ-nion]: 5
+– Experian [eks-PÍ-rian]: 4
+– Equifax [É-kui-faks]: 3
 
 La deuda total es de 174 mil dólares.
 
-Ahora actualizamos el reporte de crédito y vemos cómo está hoy. A la fecha, al cliente solo le queda una collection.
+Ahora actualizamos el reporte de crédito y vemos cómo está hoy. A la fecha, al cliente solo le queda una collection [ko-LÉK-shon].
 
 Aquí tenemos ceros: los charge-offs se eliminaron y los 40 mil dólares ya no están.
 
@@ -1421,11 +1421,11 @@ O sea, eliminamos charge-offs por un total de 40 mil dólares.
 
 ¿Quiénes no pueden darse el lujo de dejar para después la reparación de su historial de crédito?
 
-– Los camioneros. Sin score no puedes sacar un camión y, claro, tampoco asegurarlo a buen precio.
-– Los que hacen flips de casas y remodelaciones: eso son materiales, maquinaria y contratistas.
+– Los camioneros. Sin score [skor] no puedes sacar un camión y, claro, tampoco asegurarlo a buen precio.
+– Los que hacen flips [flips] de casas y remodelaciones: eso son materiales, maquinaria y contratistas.
 – Las familias jóvenes: renta, hipoteca, auto.
 – Los empresarios. Sin una línea de crédito es muy difícil crecer.
-– Y los que se quieren mudar: hasta a quienes tienen green card los rechazan si su historial de crédito es débil.
+– Y los que se quieren mudar: hasta a quienes tienen green card [grin kard] los rechazan si su historial de crédito es débil.
 
 Se puede arreglar; lo importante es no esperar hasta el momento crítico.
 
@@ -1471,9 +1471,9 @@ Ves a tus conocidos y ya tienen casa, auto, negocio, y tú siempre buscando cóm
 Pero la verdad es que esta situación la podemos cambiar.
 
 Eliminamos:
-– hard inquiries
-– collections
-– charge-offs
+– hard inquiries [jard ÍN-kua-ris]
+– collections [ko-LÉK-shons]
+– charge-offs [CHARCH-ofs]
 
 Trabajamos directamente con los burós de crédito. Todo es legal y paso a paso.
 
@@ -1521,7 +1521,7 @@ Sígueme para saber qué se puede cambiar en tu caso.
 
 ### Перевод на испанский
 
-Yana, ¿qué les decimos a los clientes que quieren eliminar hard inquiries por 100 dólares?
+Yana, ¿qué les decimos a los clientes que quieren eliminar hard inquiries [jard ÍN-kua-ris] por 100 dólares?
 
 Ay, mi departamento técnico ni siquiera va a trabajar por esa miseria.
 
@@ -1564,7 +1564,7 @@ Los estafadores simplemente te cobran y no hacen nada. Algunas empresas cobran p
 
 Nosotros trabajamos por etapas. Pagas por pasos concretos. Hay un reporte y ves el resultado.
 
-Hay muchos novatos que te prometen el cielo y las estrellas. Por ejemplo, un score de 800 en dos semanas. Suena genial, claro, pero no es realista.
+Hay muchos novatos que te prometen el cielo y las estrellas. Por ejemplo, un score [skor] de 800 en dos semanas. Suena genial, claro, pero no es realista.
 
 Nosotros te decimos desde el principio qué se puede y qué no. Con honestidad y sin cuentos. Si no podemos ayudarte en tu situación, te lo vamos a decir tal cual.
 
@@ -1605,7 +1605,7 @@ Sigue mi cuenta para no cometer errores al construir tu historial de crédito.
 
 ### Перевод на испанский
 
-Si vives en Estados Unidos con un score bajo, cada mes pierdes dinero solo porque no has entendido cómo funciona el sistema.
+Si vives en Estados Unidos con un score [skor] bajo, cada mes pierdes dinero solo porque no has entendido cómo funciona el sistema.
 
 – Renta: depósito doble.
 – Auto: 25% de interés anual.
@@ -1616,13 +1616,13 @@ Ganas dinero, pero aun así pagas de más todo el tiempo, solo porque en tu repo
 Pero la verdad es que no eres el único, y todo esto se puede arreglar.
 
 ¿Qué hacemos? Eliminamos:
-– hard inquiries
-– collections
-– charge-offs
+– hard inquiries [jard ÍN-kua-ris]
+– collections [ko-LÉK-shons]
+– charge-offs [CHARCH-ofs]
 
 Trabajamos directamente con los burós de crédito y subimos tu score paso a paso. Y sí, puedes pagar después: pagas cuando ves los resultados.
 
-Un cliente nuestro subió su score de 560 a 740 en 3 meses. Dio un down payment mínimo para su préstamo de auto y consiguió una tasa muy buena.
+Un cliente nuestro subió su score de 560 a 740 en 3 meses. Dio un down payment [daun PÉI-ment] mínimo para su préstamo de auto y consiguió una tasa muy buena.
 
 Ya ayudamos a miles de clientes en Estados Unidos.
 
@@ -1669,25 +1669,25 @@ Sígueme para entender qué se puede corregir en tu caso.
 
 ### Перевод на испанский
 
-Ahora les voy a mostrar a un cliente al que le eliminamos un charge-off, y vamos a ver cómo cambió su historial de crédito.
+Ahora les voy a mostrar a un cliente al que le eliminamos un charge-off [CHARCH-of], y vamos a ver cómo cambió su historial de crédito.
 
-El reporte de crédito era del 20 de febrero. Su score era de 591 en Experian y TransUnion, y de 617 en Equifax.
+El reporte de crédito era del 20 de febrero. Su score [skor] era de 591 en Experian [eks-PÍ-rian] y TransUnion [trans-IÚ-nion], y de 617 en Equifax [É-kui-faks].
 
-Aquí vemos cuentas negativas en los tres burós. Es el charge-off de Verizon, aquí lo vemos.
+Aquí vemos cuentas negativas en los tres burós. Es el charge-off de Verizon [ve-RÁI-zon], aquí lo vemos.
 
 Ahora subimos y revisamos el nuevo reporte de crédito, donde Verizon ya se eliminó.
 
-Actualización del 24 de abril: su score subió a 708, 699 y 728 en Equifax. Ya no aparece el charge-off. Bajamos: la cuenta está completamente limpia. Solo queda Bank of America, su tarjeta de crédito.
+Actualización del 24 de abril: su score subió a 708, 699 y 728 en Equifax. Ya no aparece el charge-off. Bajamos: la cuenta está completamente limpia. Solo queda Bank of America [bank of a-MÉ-ri-ka], su tarjeta de crédito.
 
 Si tienes marcas negativas como estas:
-– hard inquiries
-– collections
-– medical bills
-– charge-offs
-– late payments
+– hard inquiries [jard ÍN-kua-ris]
+– collections [ko-LÉK-shons]
+– medical bills [MÉ-di-kol bils]
+– charge-offs [CHARCH-ofs]
+– late payments [leit PÉI-ments]
 podemos corregir todo esto en el menor tiempo posible.
 
-Me llamo Yana y soy especialista en crédito de Best Credit For You.
+Me llamo Yana y soy especialista en crédito de Best Credit For You [best KRÉ-dit for iu].
 
 Deja tu solicitud ahora mismo y con gusto te ayudo.
 
@@ -1757,9 +1757,9 @@ Deja tu solicitud ahora mismo y con gusto te ayudo.
 
 ### Перевод на испанский
 
-¿Cuántos hard inquiries ya son demasiados?
+¿Cuántos hard inquiries [jard ÍN-kua-ris] ya son demasiados?
 
-Un hard inquiry no parece nada grave, pero cuando se acumulan, los bancos se empiezan a poner nerviosos. ¿Por qué?
+Un hard inquiry [jard ÍN-kua-ri] no parece nada grave, pero cuando se acumulan, los bancos se empiezan a poner nerviosos. ¿Por qué?
 
 Si en tu reporte hay cuatro, cinco o más hard inquiries en poco tiempo, para los prestamistas es señal de que estás buscando dinero. Empiezan a pensar que tienes problemas financieros, y aunque tengas un buen puntaje, te pueden negar el crédito.
 
@@ -1810,13 +1810,13 @@ Siempre puedes escribirme y con gusto te ayudo.
 
 ### Перевод на испанский
 
-¿Qué es un charge-off? ¿Y por qué destruye tu puntaje de crédito?
+¿Qué es un charge-off [CHARCH-of]? ¿Y por qué destruye tu puntaje de crédito?
 
-Si en tu reporte de crédito aparece una cuenta con charge-off, es una de las cuentas negativas más dañinas que puedes tener. Te explico qué es, de dónde sale y por qué le pega tan fuerte a tu score.
+Si en tu reporte de crédito aparece una cuenta con charge-off, es una de las cuentas negativas más dañinas que puedes tener. Te explico qué es, de dónde sale y por qué le pega tan fuerte a tu score [skor].
 
 Un charge-off es cuando el banco o el acreedor da tu deuda por incobrable. Esto pasa si llevas más de 180 días sin pagar tu cuenta.
 
-Pero ojo: que la den por incobrable no significa que ya no debas absolutamente nada. Simplemente la registran como pérdida en su contabilidad, y la deuda casi siempre pasa a una agencia de collections.
+Pero ojo: que la den por incobrable no significa que ya no debas absolutamente nada. Simplemente la registran como pérdida en su contabilidad, y la deuda casi siempre pasa a una agencia de collections [ko-LÉK-shons].
 
 ¿Qué significa esto para ti?
 – Tu puntaje de crédito baja entre 70 y 150 puntos.
@@ -1825,7 +1825,7 @@ Pero ojo: que la den por incobrable no significa que ya no debas absolutamente n
 
 Y aunque después pagues esa deuda, el charge-off se queda en tu reporte de crédito por 7 años.
 
-Pero, claro, también hay una buena noticia. Un charge-off se puede eliminar con las disputas legales correctas, usando la ley FCRA. Nosotros lo hacemos todo el tiempo para nuestros clientes.
+Pero, claro, también hay una buena noticia. Un charge-off se puede eliminar con las disputas legales correctas, usando la ley FCRA [ef-si-ar-ÉI]. Nosotros lo hacemos todo el tiempo para nuestros clientes.
 
 Así que, si tienes un charge-off en tu reporte de crédito, resuélvelo lo antes posible para recuperar tu puntaje de crédito.
 
@@ -1866,11 +1866,11 @@ Charge Off — это списание долга банком после 180 д
 
 ### Перевод на испанский
 
-¿Qué es una collection y cómo afecta tu historial de crédito? La verdad, una collection le da en la m*** a tu historial.
+¿Qué es una collection [ko-LÉK-shon] y cómo afecta tu historial de crédito? La verdad, una collection le da en la m*** a tu historial.
 
 Si no entiendes de dónde sale ni cómo manejarla, escúchame bien.
 
-Una collection aparece cuando dejas de pagar tus cuentas: la tarjeta de crédito, el teléfono, servicios médicos y otras. Normalmente, si no pagas durante 90 a 180 días, el acreedor le pasa tu deuda a una agencia de collections. Y ahí empiezan tus problemas.
+Una collection aparece cuando dejas de pagar tus cuentas: la tarjeta de crédito, el teléfono, servicios médicos y otras. Normalmente, si no pagas durante 90 a 180 días, el acreedor le pasa tu deuda a una agencia de collections [ko-LÉK-shons]. Y ahí empiezan tus problemas.
 
 La collection se registra en tu reporte de crédito y te baja el puntaje de inmediato entre 50 y 100 puntos. Aunque después pagues esa deuda, el registro se queda.
 
@@ -1923,10 +1923,10 @@ En el sistema de crédito de Estados Unidos, lo importante es no ignorar los pro
 ¿Qué hacer si te negaron una tarjeta de crédito o el financiamiento de un auto?
 
 Si solicitaste un crédito y te lo negaron, es porque en tu reporte hay alguna de estas cosas:
-– demasiados hard inquiries
-– late payments
-– collections
-– una cuenta con charge-off
+– demasiados hard inquiries [jard ÍN-kua-ris]
+– late payments [leit PÉI-ments]
+– collections [ko-LÉK-shons]
+– una cuenta con charge-off [CHARCH-of]
 
 Nosotros podemos eliminar todo eso de tu reporte de crédito.
 
@@ -1980,7 +1980,7 @@ Llena tu solicitud ahora mismo y te aseguro que te voy a ayudar.
 
 Amigos, tengo una noticia muy importante.
 
-Donald Trump cerró la agencia de protección financiera del consumidor. Es la agencia a través de la cual todas las empresas limpiaban tu historial de crédito.
+Donald Trump [DÁ-nald tromp] cerró la agencia de protección financiera del consumidor. Es la agencia a través de la cual todas las empresas limpiaban tu historial de crédito.
 
 Nuestra empresa conoce otros métodos para trabajar con los burós de crédito. Pero los plazos ya no van a ser los mismos que antes, y los precios van a subir.
 
@@ -2019,21 +2019,21 @@ Así que, si llevas tiempo pensándolo, esta es tu última oportunidad de limpia
 
 ### Перевод на испанский
 
-¿Qué son los hard inquiries y cómo afectan tu score de crédito?
+¿Qué son los hard inquiries [jard ÍN-kua-ris] y cómo afectan tu score [skor] de crédito?
 
-Cuando le pides un crédito al banco, por ejemplo un préstamo de auto, el banco hace una consulta a la agencia de crédito. Un hard inquiry es esa consulta de crédito, y se queda en tu reporte de crédito por dos años.
+Cuando le pides un crédito al banco, por ejemplo un préstamo de auto, el banco hace una consulta a la agencia de crédito. Un hard inquiry [jard ÍN-kua-ri] es esa consulta de crédito, y se queda en tu reporte de crédito por dos años.
 
-Por lo general, la mayoría de estas consultas vienen de los dealers. Cuando compras un carro, ya sea con préstamo o en leasing, el dealer hace muchísimas consultas a tu reporte de crédito.
+Por lo general, la mayoría de estas consultas vienen de los dealers [DÍ-lers]. Cuando compras un carro, ya sea con préstamo o en leasing [LÍ-sing], el dealer [DÍ-ler] hace muchísimas consultas a tu reporte de crédito.
 
 Cada una de esas consultas te baja el score. Entre más consultas tengas, menos posibilidades tienes de que te aprueben.
 
-Porque bancos como Chase, Bank of America y Wells Fargo ven con malos ojos tener muchos hard inquiries. Para ellos significa que la persona necesita dinero extra.
+Porque bancos como Chase [cheis], Bank of America [bank of a-MÉ-ri-ka] y Wells Fargo [uels FAR-go] ven con malos ojos tener muchos hard inquiries. Para ellos significa que la persona necesita dinero extra.
 
 Si tienes más de cinco, te van a negar una tarjeta de crédito o cualquier otro crédito, aunque tu score esté por encima de 700.
 
 Por eso es importante vigilar cuántos hard inquiries tienes en tu reporte y limpiarlos a tiempo.
 
-Me llamo Yana y soy especialista financiera de Best Credit For You.
+Me llamo Yana y soy especialista financiera de Best Credit For You [best KRÉ-dit for iu].
 
 Escríbeme y te ayudo a eliminar tus hard inquiries.
 
@@ -2069,9 +2069,9 @@ Escríbeme y te ayudo a eliminar tus hard inquiries.
 
 ### Перевод на испанский
 
-Si tu score bajó por tener muchos hard inquiries y eso no te deja conseguir buen financiamiento, eliminamos tus hard inquiries en 24 horas o te devolvemos tu dinero.
+Si tu score [skor] bajó por tener muchos hard inquiries [jard ÍN-kua-ris] y eso no te deja conseguir buen financiamiento, eliminamos tus hard inquiries en 24 horas o te devolvemos tu dinero.
 
-Hola, me llamo Yana y soy especialista financiera de BestCredit4You.
+Hola, me llamo Yana y soy especialista financiera de BestCredit4You [best KRÉ-dit for iu].
 
 Llena tu solicitud ahora mismo y yo me comunico contigo.
 
@@ -2114,9 +2114,9 @@ Pero si tienes una tarjeta de crédito de 300 dólares, ¿qué, tienes que gasta
 
 No, no, no, eso no tiene sentido. Puedes usar todo tu límite. Solo así les demuestras a los bancos que ese límite no te alcanza, ¿me entiendes?
 
-Pero no lo pagues con el pago mínimo: paga todo tu saldo completo antes de la fecha de vencimiento, el due date.
+Pero no lo pagues con el pago mínimo: paga todo tu saldo completo antes de la fecha de vencimiento, el due date [DÚ-deit].
 
-Así tu score va a subir y te van a aumentar el límite, ¿me entiendes?
+Así tu score [skor] va a subir y te van a aumentar el límite, ¿me entiendes?
 
 ### Описание
 
@@ -2149,16 +2149,16 @@ American Express массово закрывает всем кредитные �
 
 ### Перевод на испанский
 
-American Express está cerrando tarjetas de crédito y recortando límites de forma masiva. ¿Es verdad o no? Sí, es verdad.
+American Express [a-MÉ-ri-kan eks-PRÉS] está cerrando tarjetas de crédito y recortando límites de forma masiva. ¿Es verdad o no? Sí, es verdad.
 
 Me llamaron varios clientes: a unos les recortaron el límite y a otros les cerraron la tarjeta, y eso que tenían buenos límites.
 
 ¿Van a hacer lo mismo otros bancos? Nadie lo sabe, todo puede pasar. En realidad, eso solo lo saben los bancos.
 
 ¿Qué hacer y cómo evitarlo? Primero, aguantar a que pase, por así decirlo. Y segundo, no provoques a los bancos:
-– no tengas ningún late payment
-– no tengas ninguna collection
-– no acumules muchos hard inquiries
+– no tengas ningún late payment [leit PÉI-ment]
+– no tengas ninguna collection [ko-LÉK-shon]
+– no acumules muchos hard inquiries [jard ÍN-kua-ris]
 
 Procura que tu reporte de crédito esté limpio. Tuve un cliente al que le reportaron un late payment y ese mismo día American Express le bajó el límite.
 
@@ -2296,7 +2296,7 @@ Más adelante te cuento cómo evitarlo. Sígueme.
 Mira, si ahora tienes una sola tarjeta de crédito, de verdad estás perdiendo dinero cada mes.
 
 Te explico algo muy sencillo. En Estados Unidos la gente no usa una sola tarjeta: reparte sus gastos. Por ejemplo:
-– una tarjeta para el supermercado, con entre 5 y 8% de cashback;
+– una tarjeta para el supermercado, con entre 5 y 8% de cashback [KÁSH-bak];
 – otra para la gasolina, que puede dar 4 o 5%;
 – y otra para todo lo demás, alrededor de 3%.
 
@@ -2354,7 +2354,7 @@ En el próximo video te muestro tarjetas concretas para Estados Unidos. Sígueme
 
 ### Перевод на испанский
 
-Ahora les voy a mostrar cuánto puede subir tu score si se agregan líneas de crédito de la forma correcta.
+Ahora les voy a mostrar cuánto puede subir tu score [skor] si se agregan líneas de crédito de la forma correcta.
 
 El cliente tenía un score de 693.
 
@@ -2403,7 +2403,7 @@ Primero, revisa tu reporte de crédito en los tres burós. Ahí suele haber un m
 
 Esos errores se pueden disputar, y solo con eso ya puedes sumar entre 30 y 80 puntos.
 
-Si tienes tarjeta de crédito, mantén el balance por debajo del 30% del límite. Lo ideal es el 10%. Esto pesa casi un tercio de tu score.
+Si tienes tarjeta de crédito, mantén el balance por debajo del 30% del límite. Lo ideal es el 10%. Esto pesa casi un tercio de tu score [skor].
 
 Abre un par de tarjetas más y empieza a usarlas para todo: la cafetería, la gasolina, los servicios.
 
@@ -2448,7 +2448,7 @@ Sígueme para no perdértelo.
 
 ¿Tienes un puntaje de crédito de más de 700, pero los bancos igual te dan préstamos con intereses altos? ¡Pues no es raro!
 
-Los bancos no miran solo el score. Tu puntaje es como la portada de un libro, pero a ellos les importa más lo que hay adentro:
+Los bancos no miran solo el score [skor]. Tu puntaje es como la portada de un libro, pero a ellos les importa más lo que hay adentro:
 – la estabilidad de tus ingresos
 – la relación entre tu deuda y tus ingresos
 – y, claro, la antigüedad de tu historial
@@ -2510,7 +2510,7 @@ Sígueme: hablo del historial de crédito en Estados Unidos.
 
 ### Перевод на испанский
 
-Los trucos más importantes para usar una secured credit card.
+Los trucos más importantes para usar una secured credit card [si-KIÚRD KRÉ-dit kard].
 
 Primero: existe el mito de que esta tarjeta hay que abrirla con el límite mínimo, de 200 a 300 dólares. Pero entonces, a los seis meses, te van a dar una tarjeta con ese mismo límite.
 
@@ -2518,11 +2518,11 @@ En cambio, si depositas 2000, 3000 o, mejor todavía, 5000 dólares, te pueden a
 
 En el video anterior te expliqué por qué esto es tan importante.
 
-Segundo: no todos los bancos te dejan abrir una secured credit card con ese límite. Los bancos más accesibles para inmigrantes son U.S. Bank o Bank of America, y ahí el límite llega a 5000 dólares. Te recomiendo abrir la tarjeta justo ahí.
+Segundo: no todos los bancos te dejan abrir una secured credit card con ese límite. Los bancos más accesibles para inmigrantes son U.S. Bank [iu-ES bank] o Bank of America [bank of a-MÉ-ri-ka], y ahí el límite llega a 5000 dólares. Te recomiendo abrir la tarjeta justo ahí.
 
 Y tercero, muy importante: no gastes el 30%, como recomiendan los especialistas sin experiencia, sino lo que realmente necesites. Así el banco ve que necesitas un aumento de límite.
 
-Lo principal es que en el due date no debas más del 9%.
+Lo principal es que en el due date [DÚ-deit] no debas más del 9%.
 
 En mi página te cuento todo sobre el historial de crédito en Estados Unidos. Sígueme para no perderte el próximo video.
 
@@ -2567,11 +2567,11 @@ En mi página te cuento todo sobre el historial de crédito en Estados Unidos. S
 
 ¿Cómo construir rápido tu historial de crédito en Estados Unidos?
 
-Primero: saca una secured credit card, una tarjeta de crédito con depósito.
+Primero: saca una secured credit card [si-KIÚRD KRÉ-dit kard], una tarjeta de crédito con depósito.
 
-Por ejemplo, vas a Bank of America y depositas de 200 a 300 dólares en la cuenta o, mejor aún, el máximo permitido. Y listo: el banco te da una tarjeta con ese mismo límite.
+Por ejemplo, vas a Bank of America [bank of a-MÉ-ri-ka] y depositas de 200 a 300 dólares en la cuenta o, mejor aún, el máximo permitido. Y listo: el banco te da una tarjeta con ese mismo límite.
 
-La usas como una tarjeta normal. Puedes gastar todo el límite; lo importante es pagarlo completo antes del due date, la fecha de pago.
+La usas como una tarjeta normal. Puedes gastar todo el límite; lo importante es pagarlo completo antes del due date [DÚ-deit], la fecha de pago.
 
 Después de seis meses de usarla con cuidado, ya vas a tener un puntaje de crédito y un buen historial de pagos.
 
@@ -2579,7 +2579,7 @@ Y luego viene lo más interesante: pídele al banco que te suba el límite y sac
 
 No cierres la primera: ayuda a que tu historial sea más largo. Cada par de meses haz alguna compra pequeña con ella: un café, gasolina, lo que sea. Lo importante es pagar a tiempo.
 
-Si haces todo bien, en 12 a 18 meses vas a tener un score sólido, con el que puedes sacar un auto, una casa y hasta tarjetas con cashback.
+Si haces todo bien, en 12 a 18 meses vas a tener un score [skor] sólido, con el que puedes sacar un auto, una casa y hasta tarjetas con cashback [KÁSH-bak].
 
 Y si no quieres esperar un año y medio y quieres saber cómo acelerar el proceso, escribe un "más" en los comentarios y te contactamos para darte una consulta gratis.
 
@@ -2621,7 +2621,7 @@ Y si no quieres esperar un año y medio y quieres saber cómo acelerar el proces
 
 ### Перевод на испанский
 
-Mark Zuckerberg tiene una fortuna de 250 mil millones de dólares, pero su mansión de 20 millones está hipotecada. ¿Para qué necesita una hipoteca?
+Mark Zuckerberg [mark SÁ-ker-berg] tiene una fortuna de 250 mil millones de dólares, pero su mansión de 20 millones está hipotecada. ¿Para qué necesita una hipoteca?
 
 En realidad tiene 11 casas que en total valen 220 millones de dólares, y todas con una tasa de apenas 1.2%. Mientras tanto, su fortuna crece un 15% al año.
 
@@ -2629,13 +2629,13 @@ En realidad tiene 11 casas que en total valen 220 millones de dólares, y todas 
 
 Y lo más importante: si vende acciones para comprar una casa, tiene que pagar hasta un 37% de impuesto sobre ganancias de capital. Pero si solo las deja como garantía y pide un préstamo, no paga impuestos.
 
-Y así viven todos los multimillonarios: Jeff Bezos, Elon Musk. No venden sus activos para comprarse un yate, una casa o un avión. Piden préstamos respaldados por esos activos.
+Y así viven todos los multimillonarios: Jeff Bezos [yef BÉI-zos], Elon Musk [Í-lon mosk]. No venden sus activos para comprarse un yate, una casa o un avión. Piden préstamos respaldados por esos activos.
 
 O sea, en la práctica viven de una deuda que les conviene más que tener efectivo.
 
 Mientras la gente común trabaja para pagar su hipoteca, los ricos usan la hipoteca para ganar todavía más. Para ellos, la deuda no es un problema, sino una herramienta para manejar su capital.
 
-¿Quieres subir tu score y tener acceso a hipotecas y tarjetas sin pagar de más? Escríbeme por mensaje directo.
+¿Quieres subir tu score [skor] y tener acceso a hipotecas y tarjetas sin pagar de más? Escríbeme por mensaje directo.
 
 ### Описание
 
@@ -2683,13 +2683,13 @@ Mientras la gente común trabaja para pagar su hipoteca, los ricos usan la hipot
 
 ¿Está bien o está mal?
 
-Saltarte un pago de la renta. Mal, por supuesto. Si el dueño reporta esa información a un buró de crédito, tu score va a bajar.
+Saltarte un pago de la renta. Mal, por supuesto. Si el dueño reporta esa información a un buró de crédito, tu score [skor] va a bajar.
 
 Pagar solo el mínimo de la tarjeta de crédito. Está bien si te falta dinero por un tiempo. Pero lo importante es no olvidar pagar el resto del saldo para que no se te acumulen intereses.
 
-Abrir tres tarjetas de crédito seguidas. Mal. Son muchos hard inquiries y eso le va a pegar a tu score.
+Abrir tres tarjetas de crédito seguidas. Mal. Son muchos hard inquiries [jard ÍN-kua-ris] y eso le va a pegar a tu score.
 
-Vivir en Estados Unidos y no saber cuál es tu score. 100% mal. Es como manejar sin GPS: puedes dar una vuelta equivocada y terminar metido en un problema.
+Vivir en Estados Unidos y no saber cuál es tu score. 100% mal. Es como manejar sin GPS [yi-pi-ES]: puedes dar una vuelta equivocada y terminar metido en un problema.
 
 Cerrar una tarjeta de crédito vieja. Mal, claro, porque una cuenta antigua le da antigüedad a tu historial de crédito. Mejor no la cierres.
 
@@ -2732,9 +2732,9 @@ Sigue mi página para empezar a construir tu historial de crédito en Estados Un
 
 Si pagas solo con débito, pierdes dinero todos los días.
 
-Cashback: con una tarjeta de crédito puedes recuperar del 1 al 5% en distintas compras: comida, shopping, boletos.
+Cashback [KÁSH-bak]: con una tarjeta de crédito puedes recuperar del 1 al 5% en distintas compras: comida, shopping [SHÁ-ping], boletos.
 
-Puntos y recompensas: mucha gente vuela gratis, se hospeda gratis y recibe upgrades.
+Puntos y recompensas: mucha gente vuela gratis, se hospeda gratis y recibe upgrades [ÁP-greids].
 
 La tarjeta de débito no construye tu historial de crédito, así que para los bancos simplemente no existes.
 
@@ -2782,7 +2782,7 @@ Sigue mi cuenta para no cometer errores con tus tarjetas de crédito en el futur
 
 ### Перевод на испанский
 
-Yana, ¿cuánto se puede ahorrar con un score alto?
+Yana, ¿cuánto se puede ahorrar con un score [skor] alto?
 
 Mira:
 – Renta de departamento: un depósito de 0 en lugar de 3000 dólares, por ejemplo.
@@ -2832,11 +2832,11 @@ Sigue mi cuenta para no cometer errores con las tarjetas de crédito.
 
 ### Перевод на испанский
 
-Tres errores que hacen bajar tu score sin que te des cuenta.
+Tres errores que hacen bajar tu score [skor] sin que te des cuenta.
 
-– Un late payment, aunque sea de un solo día. Se te olvidó pagar el teléfono o la tarjeta de crédito, el banco lo reporta al buró de crédito y tu score baja de golpe 100 puntos.
+– Un late payment [leit PÉI-ment], aunque sea de un solo día. Se te olvidó pagar el teléfono o la tarjeta de crédito, el banco lo reporta al buró de crédito y tu score baja de golpe 100 puntos.
 – Usar demasiado de tu límite. Si tu límite de crédito es de 1000 dólares y traes un saldo de 800, eso es una señal de que dependes del crédito. Usa no más del 9% y, como máximo, el 30%.
-– Demasiadas solicitudes de crédito. Pediste un préstamo de auto o una tarjeta en 3 o 4 bancos, cada uno te hizo un hard inquiry y perdiste unos cuantos puntos.
+– Demasiadas solicitudes de crédito. Pediste un préstamo de auto o una tarjeta en 3 o 4 bancos, cada uno te hizo un hard inquiry [jard ÍN-kua-ri] y perdiste unos cuantos puntos.
 
 Las solicitudes hay que hacerlas con cabeza.
 
@@ -2883,12 +2883,12 @@ $800 из $1000 — это сигнал тревоги. Держи баланс 
 
 ¿Quieres una tarjeta de crédito, pero no quieres perder puntos de tu historial de crédito?
 
-Te voy a dar algunas tarjetas en las que puedes ver si te aprueban sin poner en riesgo tu score.
+Te voy a dar algunas tarjetas en las que puedes ver si te aprueban sin poner en riesgo tu score [skor].
 
-– American Express. Te dan una preaprobación directamente en su sitio web o en tu cuenta. Si no calificas, tu score no se afecta para nada. Ahorita tienen las mejores condiciones del mercado.
-– Apple Card. Desde Apple Wallet te muestra el límite y la tasa de interés antes de que la solicites. Una excelente opción si quieres empezar a construir tu historial de crédito de manera inteligente.
-– Discover. Tienen un sistema de preevaluación muy práctico. Muchas veces aprueban a gente sin mucha experiencia con tarjetas de crédito. Condiciones sencillas y buenas tarjetas sin cuota anual.
-– Credit One Bank. Sí, dan preaprobación, pero yo no los recomiendo para nada. Comisiones ocultas, mal servicio y condiciones que cambian. Mejor evita ese banco.
+– American Express [a-MÉ-ri-kan eks-PRÉS]. Te dan una preaprobación directamente en su sitio web o en tu cuenta. Si no calificas, tu score no se afecta para nada. Ahorita tienen las mejores condiciones del mercado.
+– Apple Card [Á-pol kard]. Desde Apple Wallet [Á-pol UÁ-let] te muestra el límite y la tasa de interés antes de que la solicites. Una excelente opción si quieres empezar a construir tu historial de crédito de manera inteligente.
+– Discover [dis-KÁ-ver]. Tienen un sistema de preevaluación muy práctico. Muchas veces aprueban a gente sin mucha experiencia con tarjetas de crédito. Condiciones sencillas y buenas tarjetas sin cuota anual.
+– Credit One Bank [KRÉ-dit uan bank]. Sí, dan preaprobación, pero yo no los recomiendo para nada. Comisiones ocultas, mal servicio y condiciones que cambian. Mejor evita ese banco.
 
 ¿Quieres construir tu crédito sin errores? Empieza con la tarjeta correcta.
 
@@ -2931,7 +2931,7 @@ Te voy a dar algunas tarjetas en las que puedes ver si te aprueban sin poner en 
 
 ### Перевод на испанский
 
-Si has oído hablar del boost del historial de crédito o de los tradelines, pero no entiendes qué son, te lo explico con palabras sencillas.
+Si has oído hablar del boost [bust] del historial de crédito o de los tradelines [TRÉID-lains], pero no entiendes qué son, te lo explico con palabras sencillas.
 
 El boost es una forma de fortalecer temporalmente tu perfil de crédito agregándote líneas de crédito positivas de otra persona. Eso es lo que se conoce como tradelines.
 
@@ -2941,7 +2941,7 @@ En tu reporte aparece la antigüedad de la cuenta, un límite de crédito alto y
 
 Así, los prestamistas ven un perfil maduro y confiable, y tú tienes más posibilidades de que te aprueben.
 
-Los tradelines son especialmente útiles después de eliminar cuentas negativas, como los charge-offs. O si, por ejemplo, acabas de llegar a Estados Unidos y estás empezando a construir tu historial de crédito.
+Los tradelines son especialmente útiles después de eliminar cuentas negativas, como los charge-offs [CHARCH-ofs]. O si, por ejemplo, acabas de llegar a Estados Unidos y estás empezando a construir tu historial de crédito.
 
 Pero es importante entender que esto es solo un apoyo temporal.
 
@@ -2992,8 +2992,8 @@ Tienes una tarjeta de crédito, pero tu puntaje no sube nada o hasta baja, aunqu
 – Primero: paga antes de la fecha de corte, no antes de la fecha de pago. Si pagas después de la fecha de corte, al reporte se va un saldo alto, aunque hayas pagado todo a tiempo.
 – Segundo: mantén tu uso entre el 10 y el 30% del límite. Por ejemplo, si tu límite es de 1000 dólares, procura que tu deuda no pase de 300 dólares.
 – Tercero: no cierres tu tarjeta de crédito más vieja, aunque no la uses para nada. Entre más antigua sea la cuenta, mejor para tu historial de crédito.
-– Cuarto: revisa tu reporte por lo menos una vez al mes. A veces hay errores que afectan tu score.
-– Quinto: no solicites cinco tarjetas de crédito a la vez. Cada solicitud es un hard inquiry, y si tienes demasiados, tu puntaje baja de inmediato.
+– Cuarto: revisa tu reporte por lo menos una vez al mes. A veces hay errores que afectan tu score [skor].
+– Quinto: no solicites cinco tarjetas de crédito a la vez. Cada solicitud es un hard inquiry [jard ÍN-kua-ri], y si tienes demasiados, tu puntaje baja de inmediato.
 
 Así de simple. Si usas bien tu tarjeta de crédito, tu puntaje sube. Y si ya hay errores en tu reporte, claro que los podemos disputar.
 
@@ -3039,9 +3039,9 @@ Escríbeme por mensaje directo y te cuento qué se puede hacer en tu caso.
 
 ### Перевод на испанский
 
-¿Quieres un auto así en leasing con el pago mensual más bajo? Subimos tu score a 750 o más.
+¿Quieres un auto así en leasing [LÍ-sing] con el pago mensual más bajo? Subimos tu score [skor] a 750 o más.
 
-Me llamo Yana y soy especialista en crédito de BestCredit4You.
+Me llamo Yana y soy especialista en crédito de BestCredit4You [best KRÉ-dit for iu].
 
 Llena tu solicitud ahora mismo y te aseguro que te voy a ayudar.
 
@@ -3077,7 +3077,7 @@ Llena tu solicitud ahora mismo y te aseguro que te voy a ayudar.
 
 ### Перевод на испанский
 
-Hay dos tarjetas de crédito Chase Sapphire: la Preferred y la Reserve. ¿En qué se diferencian? Vamos a verlo.
+Hay dos tarjetas de crédito Chase Sapphire [cheis SÁ-fair]: la Preferred [pri-FERD] y la Reserve [ri-SERV]. ¿En qué se diferencian? Vamos a verlo.
 
 Cuota anual:
 – Preferred: 95 dólares.
@@ -3096,7 +3096,7 @@ Puntos por tus gastos del día a día:
 
 Ninguna de las dos cobra comisión por compras internacionales.
 
-Eso sí, son tarjetas premium, y para que te las aprueben necesitas un score de 720 o más.
+Eso sí, son tarjetas premium [PRÍ-miem], y para que te las aprueben necesitas un score [skor] de 720 o más.
 
 Si tu score está bajo, escríbeme y te aseguro que lo vamos a subir.
 
@@ -3136,15 +3136,15 @@ Si tu score está bajo, escríbeme y te aseguro que lo vamos a subir.
 
 ### Перевод на испанский
 
-La mejor tarjeta para viajar es, sin duda, la American Express Gold. ¿Qué te ofrece? ¡Vamos a verlo!
+La mejor tarjeta para viajar es, sin duda, la American Express Gold [a-MÉ-ri-kan eks-PRÉS gould]. ¿Qué te ofrece? ¡Vamos a verlo!
 
 Un bono de bienvenida de hasta 60,000 puntos por cumplir los requisitos. Cuando solicitas y recibes la tarjeta, tienes que cumplir un gasto mínimo: 6,000 dólares en seis meses.
 
 Piénsalo así: esa cantidad la ibas a gastar de todos modos en tus compras, y aquí además te dan puntos por hacerlo.
 
-En ciertas épocas del año, American Express ofrece bonos de bienvenida todavía más grandes, de 75,000 puntos o más. Esos puntos los puedes canjear por viajes, boletos de avión, hoteles y compras.
+En ciertas épocas del año, American Express [a-MÉ-ri-kan eks-PRÉS] ofrece bonos de bienvenida todavía más grandes, de 75,000 puntos o más. Esos puntos los puedes canjear por viajes, boletos de avión, hoteles y compras.
 
-Si pagas tus boletos con esta tarjeta, Amex también te protege con un seguro de viaje. Por ejemplo, si tu vuelo se retrasa o pierdes tu equipaje, Amex te reembolsa los gastos.
+Si pagas tus boletos con esta tarjeta, Amex [Á-meks] también te protege con un seguro de viaje. Por ejemplo, si tu vuelo se retrasa o pierdes tu equipaje, Amex te reembolsa los gastos.
 
 Y, por supuesto, ganas más puntos por tus compras:
 – 4 puntos por cada dólar en restaurantes y supermercados.
@@ -3191,7 +3191,7 @@ Y, por supuesto, ganas más puntos por tus compras:
 
 Para hacer crecer tus tarjetas de crédito, tienes que subir tu límite constantemente. Hazlo cada 3 meses.
 
-¿Cómo se hace? Puedes llamar al banco y hablar con un representante para pedir un aumento de límite, o pedirlo desde la app del banco.
+¿Cómo se hace? Puedes llamar al banco y hablar con un representante para pedir un aumento de límite, o pedirlo desde la app [ap] del banco.
 
 Trata de pedir por lo menos el triple de tu límite actual.
 
@@ -3237,11 +3237,11 @@ Muchas veces el banco te pregunta para qué necesitas una cantidad tan grande. M
 
 ¿Cómo destruir tu puntaje de crédito?
 
-Estas son las cosas que pueden acabar con tu score:
+Estas son las cosas que pueden acabar con tu score [skor]:
 – usar tus tarjetas de crédito al máximo
 – cerrar tus tarjetas más antiguas
-– acumular hard inquiries
-– y lo peor de todo, claro: tener late payments
+– acumular hard inquiries [jard ÍN-kua-ris]
+– y lo peor de todo, claro: tener late payments [leit PÉI-ments]
 
 Cuando usas tus tarjetas al máximo, los bancos ven que tienes muchas deudas y que simplemente no puedes con tus límites.
 
@@ -3249,7 +3249,7 @@ Además, en el sistema de crédito de Estados Unidos, un factor importante es la
 
 Si acumulas hard inquiries y pasan de cinco, te pueden negar un crédito aunque tu score esté en lo más alto. Porque para los bancos eso significa que necesitas dinero extra.
 
-Y el factor más negativo de todos es un late payment. Sus consecuencias:
+Y el factor más negativo de todos es un late payment [leit PÉI-ment]. Sus consecuencias:
 – tu puntaje de crédito baja hasta 100 puntos
 – te queda un mal historial de crédito
 – y encima te cobran cargos e intereses adicionales
@@ -3287,7 +3287,7 @@ Y el factor más negativo de todos es un late payment. Sus consecuencias:
 
 ¿Qué tienes que tener en cuenta para sacar un préstamo para tu negocio?
 
-Primero, tu score de crédito personal. De él depende si el banco te da el préstamo o no, a qué tasa de interés y a cuántos años. Y, claro, entre más alto sea tu puntaje, mejores condiciones vas a tener.
+Primero, tu score [skor] de crédito personal. De él depende si el banco te da el préstamo o no, a qué tasa de interés y a cuántos años. Y, claro, entre más alto sea tu puntaje, mejores condiciones vas a tener.
 
 Los bancos usan tu score personal para entender cómo manejas tus finanzas como dueño. Para ellos es una señal de cómo vas a manejar el negocio.
 
@@ -3338,7 +3338,7 @@ Y segundo, por supuesto, la antigüedad de tu empresa. Para los bancos grandes, 
 
 Todos queremos manejar un buen auto, rentar una buena casa, sacar una hipoteca para comprar casa y conseguir financiamiento para nuestras ideas de negocio.
 
-Me llamo Yana y soy especialista financiera de Best Credit For You.
+Me llamo Yana y soy especialista financiera de Best Credit For You [best KRÉ-dit for iu].
 
 Los rechazos constantes, las tasas de interés altas y los enganches elevados no te dejan cumplir ese sueño americano. Un mal historial de crédito te puede salir muy caro, literalmente.
 
@@ -3401,7 +3401,7 @@ También te da acceso a financiamiento. Con un buen puntaje es más fácil sacar
 
 Y segundo, te abre oportunidades para crecer. Un portafolio de crédito grande te ayuda a financiar tus ideas de negocio. Y, sobre todo, te da acceso a cantidades más grandes.
 
-Me llamo Yana y soy especialista financiera de Best Credit For You.
+Me llamo Yana y soy especialista financiera de Best Credit For You [best KRÉ-dit for iu].
 
 Si te quedó alguna duda, escríbeme y te ayudo.
 
@@ -3466,7 +3466,7 @@ Te lo repito: tu primera tarjeta es la que crea la antigüedad de tu historial d
 
 Pero esa tarjeta no puede quedarse guardada en tu cartera o en tu casa. Tienes que usarla por lo menos una vez cada pocos meses.
 
-Lo mejor es vincularla a servicios como Apple o Netflix.
+Lo mejor es vincularla a servicios como Apple [Á-pol] o Netflix [NÉT-fliks].
 
 ### Описание
 
@@ -3511,7 +3511,7 @@ Lo mejor es vincularla a servicios como Apple o Netflix.
 
 ### Перевод на испанский
 
-¿Qué es el credit score en Estados Unidos?
+¿Qué es el credit score [KRÉ-dit skor] en Estados Unidos?
 
 Básicamente, es un número que muestra qué tan confiable eres para un banco. Normalmente va de 300 a 850. Y, obviamente, entre más alto sea tu puntaje, mejor.
 
@@ -3519,15 +3519,15 @@ Se calcula con base en varios factores, por ejemplo:
 – si pagas a tiempo
 – tus créditos abiertos
 – tus créditos cerrados
-– si tienes hard inquiries
-– si tienes late payments
+– si tienes hard inquiries [jard ÍN-kua-ris]
+– si tienes late payments [leit PÉI-ments]
 – el porcentaje de uso de tus tarjetas de crédito
 
 Y eso es solo una pequeña parte de los factores.
 
-Un buen puntaje de crédito te da acceso a buenas condiciones en un préstamo de auto, un leasing o una hipoteca. También puedes rentar vivienda en mejores condiciones. Incluso muchos empleadores revisan tu credit report y tu historial de crédito antes de contratarte.
+Un buen puntaje de crédito te da acceso a buenas condiciones en un préstamo de auto, un leasing [LÍ-sing] o una hipoteca. También puedes rentar vivienda en mejores condiciones. Incluso muchos empleadores revisan tu credit report [KRÉ-dit ri-PORT] y tu historial de crédito antes de contratarte.
 
-Pero el score por sí solo no basta. También tienes que hacer crecer tu portafolio de crédito.
+Pero el score [skor] por sí solo no basta. También tienes que hacer crecer tu portafolio de crédito.
 
 Qué es un portafolio de crédito y cómo influye en tus posibilidades financieras te lo explico en los próximos videos.
 
@@ -3571,17 +3571,17 @@ Qué es un portafolio de crédito y cómo influye en tus posibilidades financier
 
 Unos consejos si acabas de llegar a Estados Unidos y no sabes por dónde empezar a construir tu historial de crédito.
 
-Cuando llegas a Estados Unidos, construir tu historial de crédito sin SSN es muy difícil, casi imposible. Pero de todas formas hay una salida.
+Cuando llegas a Estados Unidos, construir tu historial de crédito sin SSN [es-es-EN] es muy difícil, casi imposible. Pero de todas formas hay una salida.
 
 ¿Qué hacer mientras esperas tu SSN? Te recomiendo abrir dos tarjetas:
 – una tarjeta de débito
-– una secured credit card
+– una secured credit card [si-KIÚRD KRÉ-dit kard]
 
-Lo más fácil es abrirlas en Bank of America. Y trata de abrirlas desde el principio con los límites más altos posibles.
+Lo más fácil es abrirlas en Bank of America [bank of a-MÉ-ri-ka]. Y trata de abrirlas desde el principio con los límites más altos posibles.
 
 ¿Qué es una secured credit card? Es una tarjeta de crédito asegurada. En palabras sencillas: dejas tu propio dinero como depósito de garantía y usas esa tarjeta como una tarjeta de crédito normal. Lo ideal es abrir tres tarjetas con los límites más altos.
 
-En cuanto recibas tu SSN, esas secured credit cards se van a cargar automáticamente a tu historial de crédito. Todos sus límites se suman y aparecen en tu portafolio de crédito.
+En cuanto recibas tu SSN, esas secured credit cards [si-KIÚRD KRÉ-dit kards] se van a cargar automáticamente a tu historial de crédito. Todos sus límites se suman y aparecen en tu portafolio de crédito.
 
 Y algo muy importante: la antigüedad. También se va a reflejar, y eso te da un buen puntaje desde el principio.
 
@@ -3668,7 +3668,7 @@ Claro que existe, sí, un campo de concentración, por decirlo de forma cruda, c
 
 ¿Cómo hacen los inmigrantes para sacar dinero en créditos aquí en Estados Unidos y regresarse a nuestros países con una buena suma?
 
-Para mí es una historia muy interesante, porque de vez en cuando de verdad me llaman y me dicen… Bueno, lo primero: les gusta hablar conmigo por Telegram, y ahí ya entiendo para qué me llaman, ¿no?
+Para mí es una historia muy interesante, porque de vez en cuando de verdad me llaman y me dicen… Bueno, lo primero: les gusta hablar conmigo por Telegram [TÉ-le-gram], y ahí ya entiendo para qué me llaman, ¿no?
 
 ¿Cómo lo hacen, qué quieren? ¿Qué quieren? Pues quieren dinero. La pregunta es cómo lo hacen.
 
@@ -3711,7 +3711,7 @@ Segundo punto. Mira, nosotros no nos dedicamos a eso. Yo no ayudo a ese tipo de 
 Me llamo Yana, tengo 31 años.
 
 ¿A qué te dedicas aquí en Estados Unidos?
-Soy especialista en reparación de crédito y dirijo la compañía Best Credit for You.
+Soy especialista en reparación de crédito y dirijo la compañía Best Credit for You [best KRÉ-dit for iu].
 
 ¿Cuánto gana aquí un especialista en reparación de crédito?
 La facturación anual de nuestra compañía es de siete cifras.
@@ -3855,11 +3855,11 @@ Para empezar, por lo menos tienes que entender el sistema bancario de Estados Un
 
 ### Перевод на испанский
 
-Ya todo el mundo le tiró hate a este pobre 17 Pro Max.
+Ya todo el mundo le tiró hate [jeit] a este pobre 17 Pro Max [prou maks].
 
 Que la cámara es mala, que está hecho de materiales baratos, que supuestamente la carcasa se raya.
 
-Yo tengo un iPhone 15 y un iPhone 16. Y la cámara del iPhone 17 sí es diferente: es muchísimo mejor. Las comparé varias veces.
+Yo tengo un iPhone [ÁI-foun] 15 y un iPhone 16. Y la cámara del iPhone 17 sí es diferente: es muchísimo mejor. Las comparé varias veces.
 
 Sobre la carcasa, puede que sí se raye. Pero yo siempre uso funda, porque soy bien torpe con las manos: en dos días ya lo tendría roto.
 

@@ -4,16 +4,16 @@ Español · traducción del texto original
 
 Ahora vamos a revisar uno de los casos más interesantes de un cliente.
 
-Nos contactó en mayo. Su score era de:
-– Experian: 547
-– TransUnion: 589
-– Equifax: 631
+Nos contactó en mayo. Su score [skor] era de:
+– Experian [eks-PÍ-rian]: 547
+– TransUnion [trans-IÚ-nion]: 589
+– Equifax [É-kui-faks]: 631
 
 Variaba un poco porque las cuentas no aparecían en todos los burós.
 
-En TransUnion, Experian y Equifax tenía una cuenta en charge-off. Vemos que ese charge-off tiene un saldo de 66 dólares, pero aun así sigue siendo un charge-off.
+En TransUnion, Experian y Equifax tenía una cuenta en charge-off [CHARCH-of]. Vemos que ese charge-off tiene un saldo de 66 dólares, pero aun así sigue siendo un charge-off.
 
-Y en TransUnion y Experian, además, tenía una collection de Verizon por 963 dólares.
+Y en TransUnion y Experian, además, tenía una collection [ko-LÉK-shon] de Verizon [ve-RÁI-zon] por 963 dólares.
 
 Eliminamos tanto la collection como el charge-off. Ahora veamos el reporte de crédito del 8 de julio: su score en TransUnion ya es de 709.
 
